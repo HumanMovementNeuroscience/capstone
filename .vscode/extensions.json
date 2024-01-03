@@ -56,6 +56,9 @@
 
     //Debug Visualizer
     "hediet.debug-visualizer",
+
+    // Zotero citation manager
+    "mblode.zotero"
   ] 
 }
 ],
