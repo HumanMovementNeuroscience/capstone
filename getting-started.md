@@ -7,7 +7,7 @@ Welcome to your new foam workspace, let's get you started.
 Let's go through this to set up your repo:
 
 - [ ] if you are new with VS Code, see how to [[get-started-with-vscode]] and how to [[use-keyboard-shortcuts-for-editing]]
-
+    
 - [ ] you can navigate the links between your notes by `cmd+click` (or `ctrl+click` on Windows) on a wikilink. You can go back with `ctrl+-`. Here, go to your [[inbox]]
 
 - [ ] to see how your notes are connected, execute the `Foam: Show Graph` command. See [[graph-visualization]].
