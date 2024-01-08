@@ -10,7 +10,6 @@
     "esbenp.prettier-vscode",
     // Understated grayscale theme (light and dark variants)
     "philipbe.theme-gray-matter",
-
     // Extras - via Foam recommendations
     //"Emojisense
     "bierner.emojisense",
@@ -34,32 +33,31 @@
     "bierner.markdown-footnotes",
     //"Todo Tree (Searches workspace for TODO and related comments and summarizes those lines in vs-code gutter)</li>"
     "Gruntfuggly.todo-tree",
-
     // JSM - added
     // Continue.dev - Github Co-pilot alternative
     "continue.continue",
-
     //Rainbow CSV - colors csv coloumns
     "mechatroner.rainbow-csv",
-
     //JSON crack - Visualizer JSON's like Trees 
     "aykutsarac.jsoncrack-vscode",
-
     //Markdown Mind Map Preview - View Markdown headings as Mind Map tree
     "josephcz.vscode-markdown-mindmap-preview",
-
     //Git Lens
     //Python
     "ms-python.python",
     "ms-python.vscode-pylance",
     "ms-toolsai.jupyter",
-
     //Debug Visualizer
     "hediet.debug-visualizer",
-
     // Zotero citation manager
-    "mblode.zotero"
-  ] 
+    "mblode.zotero",
+    // Git Graph
+    "mhutchie.git-graph",
+    // Git Lens
+    "eamodio.gitlens",
+    // JSON 
+    "zainchen.json",
+  ]
 }
 ],
 }
