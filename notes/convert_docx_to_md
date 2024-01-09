@@ -1,5 +1,6 @@
 
 import os
+from pathlib import Path
 import subprocess
 
 def convert_docs_to_md(source_folder: str, output_folder: str) -> None:
@@ -29,7 +30,8 @@ def convert_docs_to_md(source_folder: str, output_folder: str) -> None:
             print(f"Converted {filename} to {output_filename}")
 
 if __name__ == "__main__":
-    source_directory = '/path/to/source/folder'
-    output_directory = '/path/to/output/folder'
+    source_directory = r'C:\Users\jonma\Downloads\UnterseeCapstoneDocs'
+    output_directory = r'C:\Users\jonma\Downloads\UnterseeCapstoneDocs\markdown'
+    Path(output_directory).mkdir(exist_ok=True, parents=True)
 
     convert_docs_to_md(source_directory, output_directory)
