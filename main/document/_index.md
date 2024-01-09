@@ -3,7 +3,7 @@
 ## [[syllabus]]
 ### [[Schedule]]
 ### [[Progression]]
-### [[Course Description]]
+### [[CourseDescription]]
 
 
 
