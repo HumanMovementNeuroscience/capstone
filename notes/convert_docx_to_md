@@ -1,7 +1,18 @@
+
 import os
 import subprocess
 
-def convert_docs_to_md(source_folder, output_folder):
+def convert_docs_to_md(source_folder: str, output_folder: str) -> None:
+    """
+    Convert .docx files in the source_folder to .md files and save them in the output_folder.
+
+    Args:
+        source_folder (str): The directory where the .docx files are located.
+        output_folder (str): The directory where the .md files will be saved.
+
+    Returns:
+        None
+    """
     # Ensure output directory exists
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
@@ -17,7 +28,8 @@ def convert_docs_to_md(source_folder, output_folder):
 
             print(f"Converted {filename} to {output_filename}")
 
-source_directory = '/path/to/source/folder'
-output_directory = '/path/to/output/folder'
+if __name__ == "__main__":
+    source_directory = '/path/to/source/folder'
+    output_directory = '/path/to/output/folder'
 
-convert_docs_to_md(source_directory, output_directory)
+    convert_docs_to_md(source_directory, output_directory)
