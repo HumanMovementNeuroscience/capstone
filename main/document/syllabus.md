@@ -7,6 +7,8 @@
 
 ## [[Schedule]]
 
+## [[Assignments]]
+### [[Standing Assignment - Main Outline]](standing-assignment-main-outline.md)
 ## [[Progression]]
 ### [[]]
 
