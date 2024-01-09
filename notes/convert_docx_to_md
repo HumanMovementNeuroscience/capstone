@@ -1,0 +1,23 @@
+import os
+import subprocess
+
+def convert_docs_to_md(source_folder, output_folder):
+    # Ensure output directory exists
+    if not os.path.exists(output_folder):
+        os.makedirs(output_folder)
+
+    for filename in os.listdir(source_folder):
+        if filename.endswith('.docx'):
+            filepath = os.path.join(source_folder, filename)
+            output_filename = os.path.splitext(filename)[0] + '.md'
+            output_file_path = os.path.join(output_folder, output_filename)
+
+            # Call pandoc to convert docx to markdown
+            subprocess.run(['pandoc', '-o', output_file_path, filepath])
+
+            print(f"Converted {filename} to {output_filename}")
+
+source_directory = '/path/to/source/folder'
+output_directory = '/path/to/output/folder'
+
+convert_docs_to_md(source_directory, output_directory)
