@@ -1,17 +1,17 @@
 
 # Course Intake Document
-
-## Personal Information
+## Data Usage and Privacy
+### Disclosure
+- Clarity on how their data will be used
+- they can contact me with questions or concerns
+### Identifing Information
 - Full Name: [Your Full Name]
 - Nicknames: [Any nicknames or aliases you go by]
-- Email Address: [Your Email Address]
-
-## Consent for Future Use of Data
+### Consent for Future Use of Data
 Do you consent to having your de-identified data (text) form this course used for research/education (or similar) purposes in the future?
 - [ ] Yes
 - [ ] No
-
-## Anonymous ID
+### Anonymous ID
 Choose an anonymous ID based on a 6-digit color hex code:
 1. Go to this site (or equivalent) https://htmlcolorcodes.com/color-picker/
 2. Pick your favorite color
