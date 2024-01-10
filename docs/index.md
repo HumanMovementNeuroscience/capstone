@@ -1,60 +1,48 @@
 
-<!DOCTYPE html>
-<html>
-<body>
+# Course Intake Document
 
-<h2>Course Intake Form</h2>
+## Personal Information
+- Full Name: [Your Full Name]
+- Nicknames: [Any nicknames or aliases you go by]
+- Email Address: [Your Email Address]
 
-<form action="/submit_form">
-  <label for="fname">Full Name:</label><br>
-  <input type="text" id="fname" name="fname"><br>
-  <label for="nname">Nicknames:</label><br>
-  <input type="text" id="nname" name="nname"><br>
-  <label for="email">Email:</label><br>
-  <input type="text" id="email" name="email"><br>
-  <label for="consent">Consent for Future Use of Data:</label><br>
-  <input type="radio" id="yes" name="consent" value="yes">
-  <label for="yes">Yes</label><br>
-  <input type="radio" id="no" name="consent" value="no">
-  <label for="no">No</label><br>
-  <label for="hexid">6-Digit Color Hex Code:</label><br>
-  <input type="text" id="hexid" name="hexid"><br>
-  <label for="permission">Permission to post on GitHub:</label><br>
-  <input type="radio" id="yes" name="permission" value="yes">
-  <label for="yes">Yes</label><br>
-  <input type="radio" id="no" name="permission" value="no">
-  <label for="no">No</label><br>
-  <label for="audience">Data Sharing Preferences:</label><br>
-  <input type="checkbox" id="public" name="audience" value="public">
-  <label for="public">General Public</label><br>
-  <input type="checkbox" id="classmates" name="audience" value="classmates">
-  <label for="classmates">Classmates</label><br>
-  <input type="checkbox" id="instructor" name="audience" value="instructor">
-  <label for="instructor">Instructor Only</label><br>
-  <label for="dtype">Data Types:</label><br>
-  <input type="checkbox" id="numerical" name="dtype" value="numerical">
-  <label for="numerical">Numerical Data</label><br>
-  <input type="checkbox" id="videos" name="dtype" value="videos">
-  <label for="videos">Annotated Videos/Data Visualization</label><br>
-  <input type="checkbox" id="raw" name="dtype" value="raw">
-  <label for="raw">Raw Video Data</label><br>
-  <label for="duser">Discord Username:</label><br>
-  <input type="text" id="duser" name="duser"><br>
-  <label for="did">Discord Member ID:</label><br>
-  <input type="text" id="did" name="did"><br>
-  <label for="dpost">Discord Introduction Post Link:</label><br>
-  <input type="text" id="dpost" name="dpost"><br>
-  <label for="guser">GitHub Username:</label><br>
-  <input type="text" id="guser" name="guser"><br>
-  <label for="participation">Participation in Data Collection:</label><br>
-  <input type="radio" id="yes" name="participation" value="yes">
-  <label for="yes">Yes</label><br>
-  <input type="radio" id="no" name="participation" value="no">
-  <label for="no">No</label><br>
-  <label for="additional">Additional Information:</label><br>
-  <textarea id="additional" name="additional" rows="4" cols="50"></textarea><br>
-  <input type="submit" value="Submit">
-</form>
+## Consent for Future Use of Data
+Do you consent to having your de-identified data (text) form this course used for research/education (or similar) purposes in the future?
+- [ ] Yes
+- [ ] No
 
-</body>
-</html>
+## Anonymous ID
+Choose an anonymous ID based on a 6-digit color hex code:
+1. Go to this site (or equivalent) https://htmlcolorcodes.com/color-picker/
+2. Pick your favorite color
+3. Copy the 6-digit hexadecimal code on the top of the column to the right
+4. Paste the ID as your answer to this question.
+- [Your 6-digit Hex ID]
+
+## Permission and Preferences
+- Permission to post text documents derived from your conversations with the bot onto a public GitHub repository:
+  - [ ] Yes
+  - [ ] No
+- Which audiences are you willing to share each 'level' of data with?
+  - [ ] General Public
+  - [ ] Classmates
+  - [ ] Instructor Only
+
+## Data Types
+- Numerical Data
+- Annotated Videos/Data Visualization
+- Raw Video Data
+
+## Discord Information
+- Discord Username: [Your Discord Username]
+- Discord Member ID: [Your Discord Member ID]
+- Introduction Post Link: [Link to your introduction post on Discord]
+
+## GitHub Information
+- GitHub Username: [Your GitHub Username]
+
+## Additional Information
+- Did you participate in the data collection part of the class on [Date]?
+  - [ ] Yes
+  - [ ] No
+- Anything else to share? Anything I'm missing? Any additional information you need before you can answer the question above? [Your Response]
