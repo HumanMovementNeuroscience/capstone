@@ -42,19 +42,16 @@ Choose an anonymous ID based on a 6-digit color hex code:
 At the moment, this course (and any associated data) is not associated with any research project, but we might want to use it for research in the future (e.g. to examine it as an example method for using AI as a teaching tool). 
 Do you consent to having your de-identified data  form this course used for research/education (or similar) purposes in the future?
 
-
 - [ ] Yes
 - [ ] No
-
 
 
 ## Tools
 
 ### Discord 
-- Make an account: https://discord.com
-  - Download desktop
-  - Download mobile
-- Join the server
+- Make a Discord account: https://discord.com
+  - Download desktop application AND mobile application
+- Join the server: 
 - Discord Username: [Your Discord Username]
 
 ### GitHub 
