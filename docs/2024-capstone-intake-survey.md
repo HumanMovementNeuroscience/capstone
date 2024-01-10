@@ -1,7 +1,7 @@
 
 # Course Intake Document
 ## Data Usage and Privacy
-### Disclosure
+### Data useage and privacy disclosure
 - Clarity on how their data will be used
   - Discord will be private, except for professor friends I've invited to watch and participate (tagged with "Observer" role)
   - GitHub will be public by default
