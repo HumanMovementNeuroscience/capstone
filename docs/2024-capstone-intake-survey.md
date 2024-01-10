@@ -1,17 +1,14 @@
 
 # Course Intake Document
 ## Data Usage and Privacy
-### Data useage and privacy disclosure
-- Clarity on how their data will be used
-  - Discord will be private, except for professor friends I've invited to watch and participate (tagged with "Observer" role)
-  - GitHub will be public by default
-    - You can make it private if you want, but that complexity is on you 
-  - Your Discord text/username may be visible on video streams, choose your Server name/settings accordingly
-  - Anything hosted publically will be best-effort-de-identified  using the information they share
-    - Data will be tagged using the 6-digit hex code they choose below
-- They can contact me with questions or concerns and reasonable accomodations will be made
-  - but also, that'll most involve me excluding them from the data collection/analysis process, so they will miss out on that part of the course
-
+### Data Usage and Privacy Disclosure
+#### The course Discord server
+- The Discord server will be private and will only consist of myself, members of the course, and a few professor friends who I've invited to observe and participate (they will be tagged with the "Observer" role).
+#### The course GitHub repository
+  - Your GitHub repository will be public by default, if you want to make it private, you can do so, but managing this setting is your responsibility.
+  - Please note that your Discord text/username may appear on video streams. Choose your Server name/settings with this in mind.
+  - Any information hosted publicly will be de-identified to the best of our ability, using the information you provide. Your data will be tagged using the 6-digit hex code you choose in the next section.
+- If you have any questions or concerns, feel free to contact me. Reasonable accommodations can be made. However, please note that these accommodations may involve excluding you from the data collection/analysis process, which is a part of the course curriculum.
 ### Identifing Information
 List all of your potentially identifying names/nicknames in a comma separated list.
 
