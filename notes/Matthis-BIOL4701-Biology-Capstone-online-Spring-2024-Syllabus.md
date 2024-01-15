@@ -16,12 +16,17 @@ In this capstone course, you (the student reading this) will create a unique pro
 
 This project represents the culmination of your undergraduate career, and will serve an an opportunity to reflect on your undergraduate experience and hone the skills that will allow you transition into the next phase of your life (whatever that might be).
 
-
-
+You will be the driver of the specific content and structure of your Capstone project, which will be designed to showcase your ability to indepently explore an intellectual space/topic, form your own assessment of the landscape, limitations, and gaps of the current human understand of your chosen domain of inquiry, and then communicate/present those thoughts to a wider audience
 
 ### Course Goals
+In this course, each student will: 
+- Develop, create, plan, execute their own Capstone project
+- Engage and other students' as they work their own projects, and receive assistance from their peers
+- Learn modern tools and 
 
-### Tools 
+### Course structure
+This class will happen on a Discord server with a highly configurable AI bot that will assist each student with the development and management of their capstone project.
+
 #### Discord
 - Discord is a chat application that allows for text, voice, and video communication.
 - This course will be primarily run through Discord (and the Ai Bot that lives there)
