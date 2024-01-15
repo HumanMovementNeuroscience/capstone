@@ -30,8 +30,8 @@ def convert_docs_to_md(source_folder: str, output_folder: str) -> None:
             print(f"Converted {filename} to {output_filename}")
 
 if __name__ == "__main__":
-    source_directory = r'C:\Users\jonma\Downloads\UnterseeCapstoneDocs'
-    output_directory = r'C:\Users\jonma\Downloads\UnterseeCapstoneDocsMd'
+    source_directory = r'C:\Users\jonma\Downloads\UnterseeCapstoneMaterialsDocx'
+    output_directory = r'C:\Users\jonma\Downloads\UnterseeCapstoneMaterialsMd'
     Path(output_directory).mkdir(exist_ok=True, parents=True)
 
     convert_docs_to_md(source_directory, output_directory)
