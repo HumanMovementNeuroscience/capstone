@@ -164,15 +164,15 @@ quantitative. Pay close attention to the guidelines I provide and the
 feedback that you get from me and your peers, and a good grade should
 follow!
 
-## Grades
+## Assignments
 
-1.  Research proposal 49%
+1.  Capstone Proper (aka The Thing Itself)
 
-    a.  8% for First draft
+    1.  First checkpoint
 
-    b.  16% for Second draft
+    1.  16% for Second draft
 
-    c.  25% for Final draft
+    3.  25% for Final draft
 
 2.  Exploration assignment 3%
 
