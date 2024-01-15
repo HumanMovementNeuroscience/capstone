@@ -12,7 +12,7 @@ I am available for office hours by appointment - contact me via Discord or email
 
 ## Course Description 
 
-<!-- Capstone is an opportunity for you to reflect on your progress towards
+Capstone is an opportunity for you to reflect on your progress towards
 becoming a professional in biology, cell and molecular biology,
 biochemistry, behavioral neuroscience, or marine biology and to think
 ahead towards how you might use this training in your career and your
@@ -20,20 +20,20 @@ personal life. No matter what you end up doing, at some point you will
 need to write persuasively with support from reliable sources. To
 practice these skills and to learn standards used in scientific writing,
 assignments will focus on producing a grant proposal in a format like
-that used by the National Institutes of Health. -->
+that used by the National Institutes of Health.
 
 ## Course Goals
-<!-- The goals of the course are for you to: 
+The goals of the course are for you to: 
 1. Hone your critical thinking
 and persuasive writing skills; 
 1. practice your public speaking or
 interview skills; and 
 1.  demonstrate your knowledge of the conventions
-used by biologists in writing and discussing research. -->
+used by biologists in writing and discussing research. 
 
 ## Writing Intensive
 
-<!-- Biology Capstone fulfills the Northeastern requirement for a
+Biology Capstone fulfills the Northeastern requirement for a
 writing-intensive course in the major for Biology, Biochemistry,
 Behavioral Neurosciences, Cell and Molecular Biology or Marine Biology.
 As such, it includes frequent and regular writing, assessment and
@@ -108,52 +108,14 @@ own writing.
 
 ### Academic Integrity Policy
 
-> "A commitment to the principles of academic integrity is essential to
-> the mission of Northeastern University. The promotion of independent
-> and original scholarship ensures that students derive the most from
-> their educational experience and their pursuit of knowledge. Academic
-> dishonesty violates the most fundamental values of an intellectual
-> community and undermines the achievements of the entire University."
-> Based on resolutions passed by the Student Government Association and
-> the Faculty Senate. (For full policy go to:
-> http://www.northeastern.edu/osccr/academic-integrity-policy/)
 
-### Communication and Canvas
+### Communication 
 
-I communicate frequently using "Announcements" on Canvas. Please make
-sure to set your notifications settings on Canvas so that you receive
-these announcements. You can use Canvas to find guidelines for
-assignments and other course information, as well as to exchange work
-and contact classmates. Since your course grade depends largely on work
-due at the end of the semester, I do not post grades until after
-assigning final grades. You will receive feedback on individual
-assignments during one-on-one meetings and as files uploaded to
-assignment comments on Canvas.
-
+//communicate via Discord, email, or Canvas
 
 ### Assignment submissions
 
-Assignments are due by 11:59pm on the given due date. I do accept late
-assignments, but major ones will incur a late penalty that accrues
-daily. **Before turning in assignments, you should convert all work to a
-pdf file to preserve your formatting.**
-
-There are different ways to submit an assignment:
-
-1.   Graded proposal assignments should be submitted to Canvas; if you
-    suspect any problem, email a copy to me at once.
-
-1.   Comment on lectures should be made to the appropriate discussion
-    forum.
-
-3.   Peer reviews (sharing and comments) should be shared on Canvas. You
-    will be assigned to different peer groups, so be certain to share
-    your work to the correct group.
-
-Do not rely on me or Canvas to remind you when you have something due.
-Use the schedule in this syllabus to keep track of upcoming due dates,
-adding reminders to whatever works best for you (e.g., the calendar on
-your phone or computer).
+//Assignments on a recommended schedule, bot will help you keep track of your progress
 
 ### Grading and feedback
 
@@ -166,18 +128,14 @@ follow!
 
 ## Assignments
 
-1.  Capstone Proper (aka The Thing Itself)
+1.  Capstone Project
 
-    1.  First checkpoint
+    1.  First checkpoint (full outline)
 
-    1.  16% for Second draft
+    1.  Second checkpoint (full draft)
 
-    3.  25% for Final draft
+    1.  Final draft (aka The Thing Itself ✨)
 
-2.  Exploration assignment 3%
-
-3.  Formal peer review of full proposal 15%
-
-4.  Presentation or Informational interview 5%
-
-5.  Online participation and effort 28%
+1. Individual assignments
+1. Group assignments
+1. Peer Reviews
