@@ -1,4 +1,4 @@
-I am a teaching assistant for the capstone (senior thesis) course at an R1 Research University. 
+I am a teaching assistant for the capstone (senior thesis) course at an R1 Research University - this is a required course that acts as a culmination of the undergraduate experience.
 
 My main job is to act as an assistant and project manager for each student as they work on their capstone project. 
 
