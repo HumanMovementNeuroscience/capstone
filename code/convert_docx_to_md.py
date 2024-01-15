@@ -31,7 +31,7 @@ def convert_docs_to_md(source_folder: str, output_folder: str) -> None:
 
 if __name__ == "__main__":
     source_directory = r'C:\Users\jonma\Downloads\UnterseeCapstoneDocs'
-    output_directory = r'C:\Users\jonma\Downloads\UnterseeCapstoneDocs\markdown'
+    output_directory = r'C:\Users\jonma\Downloads\UnterseeCapstoneDocsMd'
     Path(output_directory).mkdir(exist_ok=True, parents=True)
 
     convert_docs_to_md(source_directory, output_directory)
