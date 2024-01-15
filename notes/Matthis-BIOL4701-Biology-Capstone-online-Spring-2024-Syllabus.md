@@ -12,8 +12,9 @@ I am available for office hours by appointment - contact me via Discord or email
 - Canvas site: 
 - 
 ## Course Description 
+In this capstone course, you (the student reading this) will create a unique project that showcases your expertise and interests. 
 
-
+ Students will hone not only their scientific communication and critical thinking but also their project management prowess, preparing them for the versatile demands of modern science careers.
 
 ### Course Goals
 
