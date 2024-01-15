@@ -23,22 +23,24 @@ assignments will focus on producing a grant proposal in a format like
 that used by the National Institutes of Health. -->
 
 ## Course Goals
-The goals of the course are for you to: 
+<!-- The goals of the course are for you to: 
 1. Hone your critical thinking
-and persuasive writing skills; 2) practice your public speaking or
-interview skills; and 3) demonstrate your knowledge of the conventions
-used by biologists in writing and discussing research.
+and persuasive writing skills; 
+1. practice your public speaking or
+interview skills; and 
+1.  demonstrate your knowledge of the conventions
+used by biologists in writing and discussing research. -->
 
-**[Writing Intensive]{.underline}**
+## Writing Intensive
 
-Biology Capstone fulfills the Northeastern requirement for a
+<!-- Biology Capstone fulfills the Northeastern requirement for a
 writing-intensive course in the major for Biology, Biochemistry,
 Behavioral Neurosciences, Cell and Molecular Biology or Marine Biology.
 As such, it includes frequent and regular writing, assessment and
 revision of student work, and the opportunity for students to improve
-their work.
+their work. -->
 
-**[Required Assignments]{.underline}**
+## Required Assignments
 
 1)  The major requirement is to write a grant proposal on original
     research. While this may seem to be a daunting task, you will work
