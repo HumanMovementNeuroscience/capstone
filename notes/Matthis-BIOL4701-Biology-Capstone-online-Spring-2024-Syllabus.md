@@ -101,13 +101,9 @@ Institutional Diversity and Inclusion webpage
 
 ### Academic honesty
 
-Plagiarism is taken very seriously and will not be tolerated. All major
-assignments will be reviewed using TurnItIn. A certain amount of
-similarity is expected, though your writing should be just that -- your
-own writing.
+Don't claim another human's work as your own. 
 
-### Academic Integrity Policy
-
+Other than that, you cannot cheat in this class. 
 
 ### Communication 
 
@@ -126,16 +122,3 @@ quantitative. Pay close attention to the guidelines I provide and the
 feedback that you get from me and your peers, and a good grade should
 follow!
 
-## Assignments
-
-1.  Capstone Project
-
-    1.  First checkpoint (full outline)
-
-    1.  Second checkpoint (full draft)
-
-    1.  Final draft (aka The Thing Itself ✨)
-
-1. Individual assignments
-1. Group assignments
-1. Peer Reviews
