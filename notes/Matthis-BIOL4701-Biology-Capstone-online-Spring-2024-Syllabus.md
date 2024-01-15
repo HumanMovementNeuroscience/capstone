@@ -12,11 +12,11 @@ I am available for office hours by appointment - contact me via Discord or email
 - Canvas site: 
  
 ## Course Description 
-In this capstone course, you (the student reading this) will create a unique project that showcases your expertise and interests. 
+In this capstone course, you (the student reading this) will create a unique project that showcases and hones the techincal skills and intellectual interests.
 
 This project represents the culmination of your undergraduate career, and will serve an an opportunity to reflect on your undergraduate experience and hone the skills that will allow you transition into the next phase of your life (whatever that might be).
 
-You will be the driver of the specific content and structure of your Capstone project, which will be designed to showcase your ability to indepently explore an intellectual space/topic, form your own assessment of the landscape, limitations, and gaps of the current human understand of your chosen domain of inquiry, and then communicate/present those thoughts to a wider audience
+You will be the driver of the specific content and structure of your Capstone project, which will be designed to showcase your ability to indepently explore an intellectual space/topic, form your own assessment of the landscape, limitations, and gaps of the current human understand of your chosen domain of inquiry, and then communicate/present those thoughts to a wider audience.
 
 ### Course Goals
 In this course, each student will: 
@@ -46,7 +46,6 @@ This class will happen on a Discord server with a highly configurable AI bot tha
 1. Individual assignments
 1. Group assignments
 1. Peer Reviews
-
 
 ## Course Policies
 
@@ -87,7 +86,6 @@ Other than that, you cannot cheat in this class.
 //communicate via Discord, email, or Canvas
 
 ## Disclosure
-- I (Jon Matthis) am the founder and president of the FreeMoCap Foundation 
-- I am the primary developer of SkellyBot
+- I (Jon Matthis) am the founder and president of the FreeMoCap Foundation and the primary developer of SkellyBot, the software that powers `Classbot.v3`
 - Any actions, words, comments I make in the context of this course are my own and are not representative of the FreeMoCap Foundation'
 - Nor should any of these activities be considered endorsements by or solicitations of the FreeMoCap Foundation or related entities
