@@ -18,16 +18,17 @@ def convert_docs_to_md(source_folder: str, output_folder: str) -> None:
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
 
-    for filename in os.listdir(source_folder):
-        if filename.endswith('.docx'):
-            filepath = os.path.join(source_folder, filename)
-            output_filename = os.path.splitext(filename)[0] + '.md'
-            output_file_path = os.path.join(output_folder, output_filename)
-
+    for original_filename in os.listdir(source_folder):
+        if original_filename.endswith('.docx'):
+            original_filepath = os.path.join(source_folder, original_filename)
+            converted_filename = os.path.splitext(original_filename.replace(" ","-"))[0] + '.md'
+            converted_file_path = os.path.join(output_folder, converted_filename)
+            print(f"-------\nConverting:\n {original_filename}\n-to-\n{converted_filename}")
             # Call pandoc to convert docx to markdown
-            subprocess.run(['pandoc', '-o', output_file_path, filepath])
+            subprocess.run(['pandoc', '-o', converted_file_path, original_filepath])
+            print("Success!\n-------")
 
-            print(f"Converted {filename} to {output_filename}")
+            
 
 if __name__ == "__main__":
     source_directory = r'C:\Users\jonma\Downloads\UnterseeCapstoneMaterialsDocx'
