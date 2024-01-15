@@ -42,7 +42,7 @@ their work. -->
 
 ## Required Assignments
 
-1)  The major requirement is to write a grant proposal on original
+1.  The major requirement is to write a grant proposal on original
     research. While this may seem to be a daunting task, you will work
     on it the same way that anyone writes something of importance: by
     completing shorter drafts with feedback from peers and from me. You
@@ -50,31 +50,29 @@ their work. -->
     your sources and to format them according to APA 7^th^ edition in
     your proposal assignments.
 
-2)  Another requirement is to peer review your classmates' work. Peer
+1.  Another requirement is to peer review your classmates' work. Peer
     reviews will include several ungraded online reviews and a graded
     written anonymous review of a full draft.
 
-3)  The third major requirement involves two options: you may give a
+1.  The third major requirement involves two options: you may give a
     15-minute PowerPoint progress report of your proposal via Zoom or
     conduct an informational interview with someone working in a field
     of interest to you. If you are not able to present during business
     hours on a weekday (Boston time zone) you will have to conduct an
     interview.
 
-4)  Aside from proposal-related assignments, you will complete one
+1.  Aside from proposal-related assignments, you will complete one
     exploring a career or field of interest to you. You will have
     several options for how to fulfill this requirement, such as reports
     on research seminars, career panels, and informational interviews.
 
-5)  There are a few smaller but important assignments during class
+1.  There are a few smaller but important assignments during class
     meetings as well.
 
-**[\
-]{.underline}**
 
-**[Course Policies]{.underline}**
+## Course Policies
 
-***Online participation***
+### Online participation
 
 As an online course, we do not meet as a group, however you are strongly
 encouraged to meet with me individually when you can (in person or via
@@ -84,7 +82,7 @@ which will be used to determine your online participation. You are
 encouraged to post even if you miss a deadline -- these posts will be
 counted as late, but that's better than never!
 
-***Inclusion, diversity, and Title IX***
+### Inclusion, diversity, and Title IX
 
 I value the diversity of students at Northeastern and strive to create a
 climate of inclusion for all regardless of background, country of
@@ -101,14 +99,14 @@ additional information and assistance please see the Office of
 Institutional Diversity and Inclusion webpage
 (<https://provost.northeastern.edu/oidi/>).
 
-***Academic honesty***
+### Academic honesty
 
 Plagiarism is taken very seriously and will not be tolerated. All major
 assignments will be reviewed using TurnItIn. A certain amount of
 similarity is expected, though your writing should be just that -- your
 own writing.
 
-***[Academic Integrity Policy]{.underline}***
+### Academic Integrity Policy
 
 > "A commitment to the principles of academic integrity is essential to
 > the mission of Northeastern University. The promotion of independent
@@ -120,7 +118,7 @@ own writing.
 > the Faculty Senate. (For full policy go to:
 > http://www.northeastern.edu/osccr/academic-integrity-policy/)
 
-***Communication and Canvas***
+### Communication and Canvas
 
 I communicate frequently using "Announcements" on Canvas. Please make
 sure to set your notifications settings on Canvas so that you receive
@@ -132,10 +130,8 @@ assigning final grades. You will receive feedback on individual
 assignments during one-on-one meetings and as files uploaded to
 assignment comments on Canvas.
 
-***\
-***
 
-***Assignment submissions***
+### Assignment submissions
 
 Assignments are due by 11:59pm on the given due date. I do accept late
 assignments, but major ones will incur a late penalty that accrues
@@ -144,13 +140,13 @@ pdf file to preserve your formatting.**
 
 There are different ways to submit an assignment:
 
--   Graded proposal assignments should be submitted to Canvas; if you
+1.   Graded proposal assignments should be submitted to Canvas; if you
     suspect any problem, email a copy to me at once.
 
--   Comment on lectures should be made to the appropriate discussion
+1.   Comment on lectures should be made to the appropriate discussion
     forum.
 
--   Peer reviews (sharing and comments) should be shared on Canvas. You
+3.   Peer reviews (sharing and comments) should be shared on Canvas. You
     will be assigned to different peer groups, so be certain to share
     your work to the correct group.
 
@@ -159,7 +155,7 @@ Use the schedule in this syllabus to keep track of upcoming due dates,
 adding reminders to whatever works best for you (e.g., the calendar on
 your phone or computer).
 
-***Grading and feedback***
+### Grading and feedback
 
 I will do my best to provide assignment grades in a timely manner. While
 your life as a student has trained you to focus on grades, it's time to
@@ -168,7 +164,7 @@ quantitative. Pay close attention to the guidelines I provide and the
 feedback that you get from me and your peers, and a good grade should
 follow!
 
-**Breakdown for grades**
+## Grades
 
 1.  Research proposal 49%
 
@@ -188,36 +184,36 @@ follow!
 
 **Final grades are based on the following scale:**
 
-> A 93-100
+ A 93-100
 
-A.  90-92.9
+ A  90-92.9
 
-> B+ 87-89.9
->
-> B 83-86.9
->
-> B- 80-82.9
->
-> C+ 77-79.9
->
-> C 73-76.9
->
-> C- 70-72.9
->
-> D+ 67-69.9
->
-> D 63-66.9
->
-> D- 60-62.9
->
-> F \<60
->
-> The last day to drop [without]{.underline} a "W" grade is September
-> 27^th^.
->
-> The last day to drop [with]{.underline} a "W" grade is December 8^th^.
+ B+ 87-89.9
 
-**Schedule for Capstone Online**
+ B 83-86.9
+
+ B- 80-82.9
+
+ C+ 77-79.9
+
+ C 73-76.9
+
+ C- 70-72.9
+
+ D+ 67-69.9
+
+ D 63-66.9
+
+ D- 60-62.9
+
+ F \<60
+
+ The last day to drop **without** a "W" grade is September
+ 27^th^.
+
+ The last day to drop **with** a "W" grade is December 8^th^.
+
+## Schedule for Capstone Online
 
   ----------------------------------------------------------------------------
   **Day/date**   **Activity**               **Work due (see footnotes)**
