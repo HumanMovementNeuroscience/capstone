@@ -14,7 +14,10 @@ I am available for office hours by appointment - contact me via Discord or email
 ## Course Description 
 In this capstone course, you (the student reading this) will create a unique project that showcases your expertise and interests. 
 
- Students will hone not only their scientific communication and critical thinking but also their project management prowess, preparing them for the versatile demands of modern science careers.
+This project represents the culmination of your undergraduate career, and will serve an an opportunity to reflect on your undergraduate experience and hone the skills that will allow you transition into the next phase of your life (whatever that might be).
+
+
+
 
 ### Course Goals
 
