@@ -10,7 +10,7 @@ I am available for office hours by appointment - contact me via Discord or email
 ### Important Links
 - Bot code: https://github.com/freemocap/skellybot
 - Canvas site: 
-- 
+ 
 ## Course Description 
 In this capstone course, you (the student reading this) will create a unique project that showcases your expertise and interests. 
 
