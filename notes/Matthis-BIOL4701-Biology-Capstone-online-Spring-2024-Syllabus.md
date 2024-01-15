@@ -9,7 +9,7 @@ I am available for office hours by appointment - contact me via Discord or email
 - Online: By appointment via cal.com link (in server)
 ### Important Links
 - Bot code: https://github.com/freemocap/skellybot
-- Canvas site: 
+- Canvas site: https://northeastern.instructure.com/courses/165978
  
 ## Course Description 
 In this capstone course, you (the student reading this) will create a unique project that showcases and hones the techincal skills and intellectual interests.
