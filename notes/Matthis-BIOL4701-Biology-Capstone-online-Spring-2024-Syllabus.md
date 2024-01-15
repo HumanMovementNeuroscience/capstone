@@ -1,14 +1,14 @@
-# BIOL 4701 Online Biology Capstone Syllabus
+# 2024 - Spring - BIOL 4701 Biology Capstone Syllabus
 
 ## Key Information
-Instructor:Jonathan Samir Matthis
+### Instructor: Jonathan Samir Matthis
 
-E-mail: s.untersee@northeastern.edu 
-
-Office hours:
+### Office hours:
 I am available for office hours by appointment - contact me via Discord or email to set up a time.
 - In person: On Northeastern Campus Thursday afternoons (time and location by appointment)
-- Online: By appointment via Discord video/voice chat
+- Online: By appointment via cal.com link (in server)
+### Important Links
+- Bot code: https://github.com/freemocap/skellybot
 
 ## Course Description 
 
@@ -38,36 +38,16 @@ writing-intensive course in the major for Biology, Biochemistry,
 Behavioral Neurosciences, Cell and Molecular Biology or Marine Biology.
 As such, it includes frequent and regular writing, assessment and
 revision of student work, and the opportunity for students to improve
-their work. -->
+their work.
 
-## Required Assignments
-
-1.  The major requirement is to write a grant proposal on original
-    research. While this may seem to be a daunting task, you will work
-    on it the same way that anyone writes something of importance: by
-    completing shorter drafts with feedback from peers and from me. You
-    will be expected to use reference software (e.g., EndNote) to manage
-    your sources and to format them according to APA 7^th^ edition in
-    your proposal assignments.
-
-1.  Another requirement is to peer review your classmates' work. Peer
-    reviews will include several ungraded online reviews and a graded
-    written anonymous review of a full draft.
-
-1.  The third major requirement involves two options: you may give a
-    15-minute PowerPoint progress report of your proposal via Zoom or
-    conduct an informational interview with someone working in a field
-    of interest to you. If you are not able to present during business
-    hours on a weekday (Boston time zone) you will have to conduct an
-    interview.
-
-1.  Aside from proposal-related assignments, you will complete one
-    exploring a career or field of interest to you. You will have
-    several options for how to fulfill this requirement, such as reports
-    on research seminars, career panels, and informational interviews.
-
-1.  There are a few smaller but important assignments during class
-    meetings as well.
+## Assignments
+1.  Capstone Project
+    1.  First checkpoint (full outline)
+    1.  Second checkpoint (full draft)
+    1.  Final draft (aka The Thing Itself ✨)
+1. Individual assignments
+1. Group assignments
+1. Peer Reviews
 
 
 ## Course Policies
