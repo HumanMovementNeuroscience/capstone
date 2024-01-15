@@ -22,7 +22,10 @@ You will be the driver of the specific content and structure of your Capstone pr
 In this course, each student will: 
 - Develop, create, plan, execute their own Capstone project
 - Engage and other students' as they work their own projects, and receive assistance from their peers
-- Learn modern tools for
+- Learn modern tools for:
+  - Knowledge base development
+  - Document generation
+  - Asynchronous and decentralized project management
 
 ### Course structure
 This class will happen on a Discord server with a highly configurable AI bot that will assist each student with the development and management of their capstone project.
