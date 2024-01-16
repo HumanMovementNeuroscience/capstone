@@ -1,5 +1,4 @@
 # Video-1-outline
-
 ## Part 1 - Intro to the course
 ### Course Structure
 #### Course Discord Server
@@ -27,7 +26,7 @@
 - Focus on your Capstone project
 - Your pride in your work is determinant of your success
 
-## Activities
+## Part 2 Activities
 ### Capstone Project
 - Individually developed by each student
 - Will follow a general timeline with checkpoints
