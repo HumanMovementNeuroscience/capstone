@@ -46,18 +46,8 @@
 - Enter `/chat ` in the chat input box at the bottom of the screen, input some starting text (like a simple "hello" is fine), and press Enter
 - Chat with the bot for a bit about anything you want
 - Feel free to open as many chats as you want
-<<<<<<< HEAD
-### The Bot
-- Heirarchical prompt structure based on
-  - Top-level bot-instructions channel
-  - Catergory level bot-instructions channel\
-  - Channel topic description
-- It makes things up! Be wary!
-### The Point
-=======
 
 #### The Point
->>>>>>> 4470aa6dd61ba6412c470198021144988ebd987a
 - Ultimately, the chats themselves don't mean anything (other than what you get out of them )
 - The actual goal is to get a bunch of test that is relvant to your interests into the server 
 - *YOU* will use these initial conversations to start mapping out your capstone
