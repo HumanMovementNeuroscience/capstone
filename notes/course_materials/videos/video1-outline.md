@@ -1,9 +1,7 @@
 # Video-1-outline
-
-
 ## Outline
 
-### Introduction to Capstone Course Video**
+### Introduction to Capstone Course **
   1. Overview of Topics
       - Syllabus run-through
       - Instructor introduction
@@ -28,17 +26,11 @@
     - Developing a project in an intellectual space
 
 ### **Course Phases**
-  1. Initial Phase
-      - Mapping interest space
-      - Planning
-      - Creating a knowledge base
-  1. Document Generation Phase
-      - AI-assisted text generation
-      - Manual typing
-      - Ownership of the capstone by the student
-      - Hybrid approach to creating the final product
-      - Emphasis on student pride in their work
+1. Initial Phase - Building a Knowledge Base
+    - [[Checkpoint#1 - Knowledge Base]]
+1. Execution Phase - Document generation
+    - [[Checkpoint#2 - Completed Draft]]
+1. Final Phase - Presentation and Reflection
+    - [[Checkpoint#3 - Final Project]]
 
 ### **Student's Responsibility**
-  - Endorsement of the capstone project
-  - Acknowledgment of their work regardless of text generation method
