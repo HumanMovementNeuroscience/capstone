@@ -13,7 +13,7 @@ I am available for office hours by appointment - contact me via Discord or email
 - 
 ## Course Description 
 
-Capstone is an opportunity for you to reflect on your progress towards
+<!-- Capstone is an opportunity for you to reflect on your progress towards
 becoming a professional in biology, cell and molecular biology,
 biochemistry, behavioral neuroscience, or marine biology and to think
 ahead towards how you might use this training in your career and your
@@ -21,16 +21,16 @@ personal life. No matter what you end up doing, at some point you will
 need to write persuasively with support from reliable sources. To
 practice these skills and to learn standards used in scientific writing,
 assignments will focus on producing a grant proposal in a format like
-that used by the National Institutes of Health.
+that used by the National Institutes of Health. -->
 
 ### Course Goals
-The goals of the course are for you to: 
+<!-- The goals of the course are for you to: 
 1. Hone your critical thinking
 and persuasive writing skills; 
 1. practice your public speaking or
 interview skills; and 
 1.  demonstrate your knowledge of the conventions
-used by biologists in writing and discussing research. 
+used by biologists in writing and discussing research.  -->
 
 ### Tools 
 #### Discord
