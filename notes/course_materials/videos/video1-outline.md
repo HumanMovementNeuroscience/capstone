@@ -1,4 +1,8 @@
+
+# 2024 - Spring - Capstone Course
+
 # Video-1-outline
+
 ## Part A - Intro to the course
 ### Course Structure
 #### Course Discord Server
