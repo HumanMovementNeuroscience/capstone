@@ -90,7 +90,7 @@ Other than that, you cannot cheat in this class.
 //communicate via Discord, email, or Canvas
 
 ## Disclosure
-- I am the founder and president of the FreeMoCap Foundation 
+- I (Jon Matthis) am the founder and president of the FreeMoCap Foundation 
 - I am the primary developer of SkellyBot
 - Any actions, words, comments I make in the context of this course are my own and are not representative of the FreeMoCap Foundation'
 - Nor should any of these activities be considered endorsements by or solicitations of the FreeMoCap Foundation or related entities
