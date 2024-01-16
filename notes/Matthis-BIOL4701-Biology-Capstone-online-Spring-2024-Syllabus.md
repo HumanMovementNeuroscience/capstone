@@ -9,7 +9,8 @@ I am available for office hours by appointment - contact me via Discord or email
 - Online: By appointment via cal.com link (in server)
 ### Important Links
 - Bot code: https://github.com/freemocap/skellybot
-
+- Canvas site: 
+- 
 ## Course Description 
 
 Capstone is an opportunity for you to reflect on your progress towards
@@ -22,7 +23,7 @@ practice these skills and to learn standards used in scientific writing,
 assignments will focus on producing a grant proposal in a format like
 that used by the National Institutes of Health.
 
-## Course Goals
+### Course Goals
 The goals of the course are for you to: 
 1. Hone your critical thinking
 and persuasive writing skills; 
@@ -31,16 +32,16 @@ interview skills; and
 1.  demonstrate your knowledge of the conventions
 used by biologists in writing and discussing research. 
 
-## Writing Intensive
+### Tools 
+#### Discord
+- Discord is a chat application that allows for text, voice, and video communication.
+- This course will be primarily run through Discord (and the Ai Bot that lives there)
+#### The Bot
+  - ClassBot - A configured instance of [SkellyBot](https://github.com/freemocap/skellybot)   
+  - This bot is free and open source and managed by the [FreeMoCap Foundation](https://freemocapfoundation.org)
+  - Disclosure!
 
-Biology Capstone fulfills the Northeastern requirement for a
-writing-intensive course in the major for Biology, Biochemistry,
-Behavioral Neurosciences, Cell and Molecular Biology or Marine Biology.
-As such, it includes frequent and regular writing, assessment and
-revision of student work, and the opportunity for students to improve
-their work.
-
-## Assignments
+### Assignments
 1.  Capstone Project
     1.  First checkpoint (full outline)
     1.  Second checkpoint (full draft)
@@ -52,15 +53,14 @@ their work.
 
 ## Course Policies
 
-### Online participation
+### Writing Intensive
 
-As an online course, we do not meet as a group, however you are strongly
-encouraged to meet with me individually when you can (in person or via
-Zoom). You are expected to post comments and questions to Canvas
-discussion groups and to share work and comments on peer work, all of
-which will be used to determine your online participation. You are
-encouraged to post even if you miss a deadline -- these posts will be
-counted as late, but that's better than never!
+Biology Capstone fulfills the Northeastern requirement for a
+writing-intensive course in the major for Biology, Biochemistry,
+Behavioral Neurosciences, Cell and Molecular Biology or Marine Biology.
+As such, it includes frequent and regular writing, assessment and
+revision of student work, and the opportunity for students to improve
+their work.
 
 ### Inclusion, diversity, and Title IX
 
@@ -89,16 +89,8 @@ Other than that, you cannot cheat in this class.
 
 //communicate via Discord, email, or Canvas
 
-### Assignment submissions
-
-//Assignments on a recommended schedule, bot will help you keep track of your progress
-
-### Grading and feedback
-
-I will do my best to provide assignment grades in a timely manner. While
-your life as a student has trained you to focus on grades, it's time to
-break this training. For most jobs, feedback is qualitative, not
-quantitative. Pay close attention to the guidelines I provide and the
-feedback that you get from me and your peers, and a good grade should
-follow!
-
+## Disclosure
+- I am the founder and president of the FreeMoCap Foundation 
+- I am the primary developer of SkellyBot
+- Any actions, words, comments I make in the context of this course are my own and are not representative of the FreeMoCap Foundation'
+- Nor should any of these activities be considered endorsements by or solicitations of the FreeMoCap Foundation or related entities
