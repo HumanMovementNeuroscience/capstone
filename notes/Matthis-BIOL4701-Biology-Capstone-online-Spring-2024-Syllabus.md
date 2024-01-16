@@ -45,8 +45,10 @@ This class will happen on a Discord server with a highly configurable AI bot tha
     1.  Second checkpoint (full draft)
     1.  Final draft (aka The Thing Itself ✨)
 1. Individual assignments
-1. Group assignments
-1. Peer Reviews
+   1. Inroduction
+   . 
+2. Group assignments
+3. Peer Reviews
 
 ## Course Policies
 
