@@ -1,6 +1,5 @@
 
-# 2024 - Spring - Capstone Course
-# Video-1-outline
+# 2024 - Spring - Capstone Course - Video-1-outline
 
 ## Part A - Intro to the course
 ### What is Capstone? 
