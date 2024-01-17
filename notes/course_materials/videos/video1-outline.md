@@ -43,7 +43,7 @@
 - Group assignments
 - Peer Reviews
 
-### Assignment#1 Introductions
+### Part C - Assignment#1 Introductions
 #### Instructions
 - Go to the `1-introductions` channel of the |--ASSIGNMENTS📃--| Category
 - Enter `/chat ` in the chat input box at the bottom of the screen, input some starting text (like a simple "hello" is fine), and press Enter
