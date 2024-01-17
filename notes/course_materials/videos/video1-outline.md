@@ -51,7 +51,6 @@
 - Enter `/chat ` in the chat input box at the bottom of the screen, input some starting text (like a simple "hello" is fine), and press Enter
 - Chat with the bot for a bit about anything you want
 - Feel free to open as many chats as you want
-
 #### The Point
 - Ultimately, the chats themselves don't mean anything (other than what you get out of them )
 - The actual goal is to get a bunch of test that is relvant to your interests into the server 
