@@ -1,34 +1,50 @@
-# Video-1-outline
 
+<<<<<<< HEAD
 ## 1a - Intro to the course
 ### Course Structure
 - Syllabus
 - Github
 #### Course Discord Server
+=======
+# 2024 - Spring - Capstone Course
+## Video-1-outline
+
+### Part A - Intro to the course
+#### What is Capstone? 
+#### Course Structure
+##### The Discord Server
+>>>>>>> 8e725aa1efe43567b9a01d07161dde6159a095fd
 - Brief tour
 - Shared and Individividual categories
-#### The Bot
+##### The Bot
 - Heirarchical prompt structure based on
   - Top-level bot-instructions channel
   - Catergory level bot-instructions channel\
   - Channel topic description
 - It makes things up! Be wary!
  
+<<<<<<< HEAD
 ### Course Philosophy
 #### "Formative pedagogy" approach
+=======
+#### Course Philosophy
+##### "Formative pedagogy" approach
+>>>>>>> 8e725aa1efe43567b9a01d07161dde6159a095fd
 - Build the boat while sailing it
 - Your job - Do your project
 - My job - Manage the course-level stuff
-#### Ai-enabled Flexibility
+##### Ai-enabled Flexibility
 - The bot will help wrangle each of you individually 
 - This allows for a much greater degree of flexibility than a traditional course
 - Might feel weird at first, but trust the process
-#### Outcomes over grades
+##### Outcomes over grades
 - De-emphasizing grades
 - Just do the assignments
+- Focus on your Capstone project
 - Your pride in your work is determinant of your success
 
-### Activities
+### Part B - Activities
+
 #### Capstone Project
 - Individually developed by each student
 - Will follow a general timeline with checkpoints
@@ -36,18 +52,18 @@
   - Default plan: An NIH-style grant proposal
   - Alternative plan: A research paper
   - ...or anything else you can convince me is a good idea
+
 #### Interim Assignments
 - Individual assignments
 - Group assignments
 - Peer Reviews
 
-### Assignment #1-introductions
+### Part C - Assignment#1 Introductions
 #### Instructions
-- Go to the #1-introductions channel of the |--ASSIGNMENTS📃--| Category
+- Go to the `1-introductions` channel of the |--ASSIGNMENTS📃--| Category
 - Enter `/chat ` in the chat input box at the bottom of the screen, input some starting text (like a simple "hello" is fine), and press Enter
 - Chat with the bot for a bit about anything you want
 - Feel free to open as many chats as you want
-
 #### The Point
 - Ultimately, the chats themselves don't mean anything (other than what you get out of them )
 - The actual goal is to get a bunch of test that is relvant to your interests into the server 
