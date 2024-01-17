@@ -31,6 +31,7 @@
 - Your pride in your work is determinant of your success
 
 ### Part B - Activities
+
 #### Capstone Project
 - Individually developed by each student
 - Will follow a general timeline with checkpoints
@@ -38,6 +39,7 @@
   - Default plan: An NIH-style grant proposal
   - Alternative plan: A research paper
   - ...or anything else you can convince me is a good idea
+
 #### Interim Assignments
 - Individual assignments
 - Group assignments
