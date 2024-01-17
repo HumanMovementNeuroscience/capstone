@@ -5,7 +5,7 @@
 ### Part A - Intro to the course
 #### What is Capstone? 
 #### Course Structure
-##### Course Discord Server
+##### The Discord Server
 - Brief tour
 - Shared and Individividual categories
 ##### The Bot
