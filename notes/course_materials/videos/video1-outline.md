@@ -1,7 +1,9 @@
 # Video-1-outline
 
-## Intro to the course
+## 1a - Intro to the course
 ### Course Structure
+- Syllabus
+- Github
 #### Course Discord Server
 - Brief tour
 - Shared and Individividual categories
@@ -11,7 +13,7 @@
   - Catergory level bot-instructions channel\
   - Channel topic description
 - It makes things up! Be wary!
-- 
+ 
 ### Course Philosophy
 #### "Formative pedagogy" approach
 - Build the boat while sailing it
