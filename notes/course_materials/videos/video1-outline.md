@@ -1,5 +1,6 @@
 
-# 2024 - Spring - Capstone Course - Video-1-outline
+# 2024 - Spring - Capstone Course
+# Video-1-outline
 
 ## Part A - Intro to the course
 ### What is Capstone? 
@@ -29,7 +30,7 @@
 - Focus on your Capstone project
 - Your pride in your work is determinant of your success
 
-## PartB - Activities
+## Part B - Activities
 ### Capstone Project
 - Individually developed by each student
 - Will follow a general timeline with checkpoints
