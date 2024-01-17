@@ -16,15 +16,15 @@
 - It makes things up! Be wary!
  
 #### Course Philosophy
-#### "Formative pedagogy" approach
+##### "Formative pedagogy" approach
 - Build the boat while sailing it
 - Your job - Do your project
 - My job - Manage the course-level stuff
-#### Ai-enabled Flexibility
+##### Ai-enabled Flexibility
 - The bot will help wrangle each of you individually 
 - This allows for a much greater degree of flexibility than a traditional course
 - Might feel weird at first, but trust the process
-#### Outcomes over grades
+##### Outcomes over grades
 - De-emphasizing grades
 - Just do the assignments
 - Focus on your Capstone project
