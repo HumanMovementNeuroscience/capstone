@@ -1,13 +1,23 @@
-Create Assignment 2 for students
-Include instructions on how to:
-Use Zotero and add papers to their library
-Get VS Code for editing purposes
-Make VS Code setup a secondary, optional task
-Set up a support channel for VS Code assistance
-Main focus of the assignment:
-Extract content from research papers
-Find relevant papers and post abstracts and citations in chat
-Use the bot to generate a summarized and schematized description
-Summarize paper content and its relevance to the student's project
-Extract 'kebab case tags' from the content
-Encourage posting content they are proud of for later review
+# Assignment 2: Research and Tool Integration
+
+## Instructions for Students
+- **Zotero Usage**
+  - Learn how to use Zotero to manage your research papers.
+  - Add relevant papers to your Zotero library.
+
+- **VS Code Setup (Optional)**
+  - Download and configure VS Code for editing.
+  - Join the support channel for help with VS Code.
+
+## Main Focus
+- **Research Paper Content Extraction**
+  - Locate and read research papers pertinent to your project.
+  - Post abstracts and citations in the designated chat.
+
+- **Content Summarization**
+  - Utilize the bot to create summarized and schematized descriptions of papers.
+  - Clearly summarize the content and relevance to your project.
+
+- **Tagging and Sharing**
+  - Create 'kebab case tags' for key concepts from your research.
+  - Share content you find significant for peer review and feedback.
