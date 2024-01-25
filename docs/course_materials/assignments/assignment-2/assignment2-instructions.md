@@ -2,17 +2,17 @@ Using the text in this conversation, please come up with a document following th
 
 BEGIN SECTION DESCRIPTIONS:
 
-title:  description="The title of the research article"
-author_year:  description="The author and year of the research article (e.g. 'Smith et al. 2020')"
-citation:  description="The citation to the research article"
+title:  "The title of the research article"
+author_year:  "The author and year of the research article (e.g. 'Smith et al. 2020')"
+citation:  "The citation to the research article"
 
-detailed_summary:  description="A detailed summary/overview of the major points of the paper in a bulleted outline format ( with * to denote bullet points) with 1-2 sentence top level bullet points and second-level bullet points"
-short_summary:  description="A short (2-3 sentence) summary of the paper"
-very_short_summary:  description="A very short one sentence summary of the research article"
-extremely_short_summary:  description="An extremely short 6-10 word summary of the research article"
-basic_methodology: description="A basic description of the methodology used in the research article (e.g. information about tools used, species studied, analytical techniques, etc.)"
-summary_title:      description="A summary title made by combining the `author_year` field with the `extremely_short_summary` field, like this: ['author_year'] - ['extremely_short_summary']")
-tags:  description="A list of tags formatted using #kebab-case-lowercase")
+detailed_summary:  "A detailed summary/overview of the major points of the paper in a bulleted outline format ( with * to denote bullet points) with 1-2 sentence top level bullet points and second-level bullet points"
+short_summary:  "A short (2-3 sentence) summary of the paper"
+very_short_summary:  "A very short one sentence summary of the research article"
+extremely_short_summary:  "An extremely short 6-10 word summary of the research article"
+basic_methodology: "A basic description of the methodology used in the research article (e.g. information about tools used, species studied, analytical techniques, etc.)"
+summary_title:      "A summary title made by combining the `author_year` field with the `extremely_short_summary` field, like this: ['author_year'] - ['extremely_short_summary']")
+tags:  "A list of tags formatted using #kebab-case-lowercase")
 
 END SECTION DESCRIPTIONS
 
