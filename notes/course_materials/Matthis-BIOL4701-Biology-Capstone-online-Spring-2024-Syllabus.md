@@ -9,6 +9,7 @@ I am available for office hours by appointment - contact me via Discord or email
 - Online: By appointment via cal.com link (in server)
  
 ### Important Links
+- Github Repository: https://github.com/
 - Bot code: https://github.com/freemocap/skellybot
 - Canvas site: https://northeastern.instructure.com/courses/165978
  
