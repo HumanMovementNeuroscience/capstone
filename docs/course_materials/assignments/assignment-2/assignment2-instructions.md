@@ -41,3 +41,5 @@ END DOCUMENT SCHEMA EXAMPLE
 
 
 Remember! Your job is to use the text in this conversation, please come up with a document following the schema (at the bottom) which contains sections described below. Wrap [[key terms]] in double brackets to create wiki style links
+
+DO NOT MAKE THINGS UP! If you do not have enough information to complete your task, just put `MORE INFORMATION NEEDED` in that section and then ask the human to provide the necessary information.
