@@ -17,8 +17,6 @@ def convert_docs_to_md(source_folder: str, output_folder: str) -> None:
     Path(output_folder).mkdir(parents=True, exist_ok=True)
 
     for original_filepath in Path(source_folder).glob('*.docx'):        
-        # original_filepath = original_filepath.resolve()
-        # original_filename = original_filepath.name
         converted_filename = original_filepath.stem.replace(" ","-") + '.md'
         converted_file_path = Path(output_folder, converted_filename)
         print(f"-------\nConverting:\n {original_filepath}\n-to-\n{converted_file_path}")
@@ -31,3 +29,4 @@ if __name__ == "__main__":
     source_directory = r'C:\Users\jonma\Downloads\UnterseeCapstoneMaterialsDocx'
     output_directory = r'C:\Users\jonma\Downloads\UnterseeCapstoneMaterialsMd'
     convert_docs_to_md(source_directory, output_directory)
+    print("Done!")
