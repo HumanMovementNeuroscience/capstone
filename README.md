@@ -7,7 +7,7 @@
 I am available for office hours by appointment - contact me via Discord or email to set up a time.
 - In person: On Northeastern Campus Thursday afternoons (time and location by appointment)
 - Online: By appointment via cal.com link (in server)
- 
+  
 ### Important Links
 - Bot code: https://github.com/freemocap/skellybot
 - Canvas site: https://northeastern.instructure.com/courses/165978
