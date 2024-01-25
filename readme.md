@@ -82,9 +82,6 @@ Don't claim another human's work as your own.
 
 Other than that, you cannot cheat in this class. 
 
-### Communication 
-
-//communicate via Discord, email, or Canvas
 
 ## Disclosure
 - I (@jonmatthis) am the founder and president of the FreeMoCap Foundation and the primary developer of SkellyBot, the software that powers `Classbot.v3`
