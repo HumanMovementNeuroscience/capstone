@@ -1,6 +1,6 @@
 # 2024 - Spring - BIOL 4701 Biology Capstone Syllabus
  
-## Key Information 
+## Key Information  
 ### Instructor: Jonathan Samir Matthis
 
 ### Office hours:
