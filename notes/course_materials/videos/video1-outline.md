@@ -1,19 +1,9 @@
-
-<<<<<<< HEAD
-## 1a - Intro to the course
-### Course Structure
-- Syllabus
-- Github
-#### Course Discord Server
-=======
-# 2024 - Spring - Capstone Course
-## Video-1-outline
+# Video-1-outline
 
 ### Part A - Intro to the course
 #### What is Capstone? 
 #### Course Structure
 ##### The Discord Server
->>>>>>> 8e725aa1efe43567b9a01d07161dde6159a095fd
 - Brief tour
 - Shared and Individividual categories
 ##### The Bot
@@ -23,13 +13,8 @@
   - Channel topic description
 - It makes things up! Be wary!
  
-<<<<<<< HEAD
-### Course Philosophy
-#### "Formative pedagogy" approach
-=======
 #### Course Philosophy
 ##### "Formative pedagogy" approach
->>>>>>> 8e725aa1efe43567b9a01d07161dde6159a095fd
 - Build the boat while sailing it
 - Your job - Do your project
 - My job - Manage the course-level stuff
