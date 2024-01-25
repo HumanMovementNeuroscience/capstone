@@ -1,39 +1,92 @@
-<img src="attachments/foam-icon.png" width=100 align="left">
+# 2024 - Spring - BIOL 4701 Biology Capstone Syllabus
 
-# Foam
+## Key Information
+### Instructor: Jonathan Samir Matthis
 
-**👋 Welcome to your new Foam Knowledge Base!**
+### Office hours:
+I am available for office hours by appointment - contact me via Discord or email to set up a time.
+- In person: On Northeastern Campus Thursday afternoons (time and location by appointment)
+- Online: By appointment via cal.com link (in server)
+ 
+### Important Links
+- Bot code: https://github.com/freemocap/skellybot
+- Canvas site: https://northeastern.instructure.com/courses/165978
+ 
+## Course Description 
+In this capstone course, you (the student reading this) will create a unique project that showcases and hones the techincal skills and intellectual interests.
 
-## Getting started
+This project represents the culmination of your undergraduate career, and will serve an an opportunity to reflect on your undergraduate experience and hone the skills that will allow you transition into the next phase of your life (whatever that might be).
 
-This documentation assumes that you have a GitHub account and have [Visual Studio Code](https://code.visualstudio.com/) installed on your Linux/macOS/Windows machine.
+You will be the driver of the specific content and structure of your Capstone project, which will be designed to showcase your ability to indepently explore an intellectual space/topic, form your own assessment of the landscape, limitations, and gaps of the current human understand of your chosen domain of inquiry, and then communicate/present those thoughts to a wider audience.
 
-1. If you haven't yet, browse over to the main [Foam documentation](https://foambubble.github.io/foam) to get an idea of what Foam is and how to use it.
-2. Press "Use this template" button at [foam-template](https://github.com/foambubble/foam-template/generate) (that's this repository!) to fork it to your own GitHub account. If you want to keep your thoughts to yourself, remember to set the repository private.
-3. [Clone the repository to your local machine](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) and open it in VS Code.
+### Course Goals
+In this course, each student will: 
+- Develop, create, plan, execute their own Capstone project
+- Engage and other students' as they work their own projects, and receive assistance from their peers
+- Learn modern tools for:
+  - Knowledge base development
+  - Document generation
+  - Asynchronous and decentralized project management
 
-    *Open the repository as a folder using the `File > Open...` menu item.*
+### Course structure
+This class will happen on a Discord server with a highly configurable AI bot that will assist each student with the development and management of their capstone project.
 
-4. When prompted to install recommended extensions, click **Install all** (or **Show Recommendations** if you want to review and install them one by one)
+#### Discord
+- Discord is a chat application that allows for text, voice, and video communication.
+- This course will be primarily run through Discord (and the Ai Bot that lives there)
+#### ClassBot
+  - ClassBot - A configured instance of [SkellyBot](https://github.com/freemocap/skellybot)   
+  - This bot is free and open source and managed by the [FreeMoCap Foundation](https://freemocapfoundation.org)
+  - Disclosure!
 
-After setting up the repository, head to [getting started](./getting-started.md) to get familiar with your new knowledge base!
+### Assignments
+1.  Capstone Project
+    1.  First checkpoint (full outline)
+    1.  Second checkpoint (full draft)
+    1.  Final draft (aka The Thing Itself ✨)
+1. Individual assignments
+1. Group assignments
+1. Peer Reviews
 
-To learn more about how to use **Foam**, read the [Recipes](https://foambubble.github.io/foam/user/recipes/recipes) bubbles of the Foam documentation workspace.
+## Course Policies
 
-And remember that you can always join our [Foam community on Discord](https://foambubble.github.io/join-discord/g)!
+### Writing Intensive
 
-## Using Foam
+Biology Capstone fulfills the Northeastern requirement for a
+writing-intensive course in the major for Biology, Biochemistry,
+Behavioral Neurosciences, Cell and Molecular Biology or Marine Biology.
+As such, it includes frequent and regular writing, assessment and
+revision of student work, and the opportunity for students to improve
+their work.
 
-We've created a few Bubbles (Markdown documents) to get you started.
+### Inclusion, diversity, and Title IX
 
-- [inbox](./inbox.md) - a place to write down quick notes to be categorized later
-- [getting-started](./getting-started.md) - learn how to use your Foam workspace
-- [todo](./todo.md) - a place to keep track of things to do
+I value the diversity of students at Northeastern and strive to create a
+climate of inclusion for all regardless of background, country of
+origin, race, religion, gender, sexual orientation, ethnicity, or
+disability status. If there are aspects of your culture or identity
+that you would like to share with me as they relate to your success in
+this class, I would be happy to meet with you. Also, if you have any
+concerns or are facing any special issues or challenges, I encourage you
+to discuss the matter with me as you feel comfortable. Keep in mind,
+however, that faculty members are considered "responsible employees" at
+Northeastern University, meaning we are required to report allegations
+of sex or gender-based discrimination to the Title IX Coordinator. For
+additional information and assistance please see the Office of
+Institutional Diversity and Inclusion webpage
+(<https://provost.northeastern.edu/oidi/>).
 
-In the `docs` directory you can find everything you need to learn the basics of Foam.
+### Academic honesty
 
-## Submitting Issues
+Don't claim another human's work as your own. 
 
-As you may have noticed, issues are disabled. With the goal to keep the project fairly easy to maintain, please file your issues in the main Foam repository:
+Other than that, you cannot cheat in this class. 
 
-> <https://github.com/foambubble/foam>
+### Communication 
+
+//communicate via Discord, email, or Canvas
+
+## Disclosure
+- I (Jon Matthis) am the founder and president of the FreeMoCap Foundation and the primary developer of SkellyBot, the software that powers `Classbot.v3`
+- Any actions, words, comments I make in the context of this course are my own and are not representative of the FreeMoCap Foundation'
+- Nor should any of these activities be considered endorsements by or solicitations of the FreeMoCap Foundation or related entities
