@@ -1,13 +1,13 @@
 # 2024 - Spring - BIOL 4701 Biology Capstone Syllabus
-
-## Key Information
+ 
+## Key Information  
 ### Instructor: Jonathan Samir Matthis
 
 ### Office hours:
 I am available for office hours by appointment - contact me via Discord or email to set up a time.
 - In person: On Northeastern Campus Thursday afternoons (time and location by appointment)
 - Online: By appointment via cal.com link (in server)
- 
+  
 ### Important Links
 - Bot code: https://github.com/freemocap/skellybot
 - Canvas site: https://northeastern.instructure.com/courses/165978
@@ -82,11 +82,8 @@ Don't claim another human's work as your own.
 
 Other than that, you cannot cheat in this class. 
 
-### Communication 
-
-//communicate via Discord, email, or Canvas
 
 ## Disclosure
-- I (Jon Matthis) am the founder and president of the FreeMoCap Foundation and the primary developer of SkellyBot, the software that powers `Classbot.v3`
+- I (@jonmatthis) am the founder and president of the FreeMoCap Foundation and the primary developer of SkellyBot, the software that powers `Classbot.v3`
 - Any actions, words, comments I make in the context of this course are my own and are not representative of the FreeMoCap Foundation'
 - Nor should any of these activities be considered endorsements by or solicitations of the FreeMoCap Foundation or related entities
