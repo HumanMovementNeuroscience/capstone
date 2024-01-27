@@ -1,8 +1,8 @@
 # Assignment 2 (preview) 
 
-### 1. Go into the #2-paper-summary, pop open a `/chat` and talk to the bot about some paper or another on any topic that you are interested in (i.e. roughly related to your hypothetical capstone topic)
+### 1. Go into the #2-paper-summary-extraction channel, pop open a `/chat` and talk to the bot about some paper or another on any topic that you are interested in (i.e. roughly related to your hypothetical capstone topic)
 
-### 2. Be sure to copy-paste  the **full citation**  in the chat somewhere. You can also copy-paste the paper abstract as well to kickstart things. 
+### 2. Be sure to copy-paste  the **full citation** (it should have either a `doi` or `PMID` in it)  in the chat somewhere. You can also copy-paste the paper abstract as well to kickstart things. 
 
 ### 3. Once you've had a bit of a chat about it, copy the prompt I put in the top of that channel into your chat and see what it produces (Tweak the prompt as needed to get the results you want!) 
 
