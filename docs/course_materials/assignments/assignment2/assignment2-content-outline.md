@@ -1,13 +1,5 @@
 # Assignment 2: Research and Tool Integration
 
-## Instructions for Students
-- **Zotero Usage**
-  - Learn how to use Zotero to manage your research papers.
-  - Add relevant papers to your Zotero library.
-
-- **VS Code Setup (Optional)**
-  - Download and configure VS Code for editing.
-  - Join the support channel for help with VS Code.
 
 ## Main Focus
 - **Research Paper Content Extraction**
@@ -21,3 +13,12 @@
 - **Tagging and Sharing**
   - Create 'kebab case tags' for key concepts from your research.
   - Share content you find significant for peer review and feedback.
+
+## Instructions for Students
+- **Zotero Usage**
+  - Learn how to use Zotero to manage your research papers.
+  - Add relevant papers to your Zotero library.
+
+- **VS Code Setup (Optional)**
+  - Download and configure VS Code for editing.
+  - Join the support channel for help with VS Code.
