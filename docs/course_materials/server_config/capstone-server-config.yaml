@@ -3,4 +3,7 @@ roles:
     hoist: false
 
 members: 
-  - u
+  - username: "jonmatthis"
+    roles: 
+      - "#FF00FF"
+      - "Prof"
