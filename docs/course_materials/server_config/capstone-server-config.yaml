@@ -1,9 +1,14 @@
 roles: 
   - name:"#FFOOFF"
     hoist: false
+    color: "#FF00FF"
 
 members: 
   - username: "jonmatthis"
+    nickname: "#FFOOFF"
     roles: 
       - "#FF00FF"
       - "Prof"
+
+categories: 
+  - name: "#FFO0FF"
