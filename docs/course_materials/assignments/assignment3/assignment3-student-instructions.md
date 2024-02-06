@@ -8,17 +8,18 @@
 ### Task
 #### Step 1 - set up your space
 - Go back and extract summaries from your previous conversations about the topics you want to do your capstone about (or ignore them and start from scratch if you want - truly doesn't matter).
-- Extract a short summary of your project. It should fit within a signle discord message (so ~2000 characters) and be of the form: 
+- Extract a short summary of your project. It should fit within a single discord message (so ~2000 characters) and be of the form: 
 
 
 ```
 # Working title  
 
 ## Major Topic 1 
-## Major Topic 2
-## Major Topic 3
 
-``` 
+## Major Topic 2
+
+## Major Topic 3
+```
 
 The working title and major topics should be a few words each, 1 sentence tops.
 
