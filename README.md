@@ -51,6 +51,10 @@ This class will happen on a Discord server with configurable [AI bot](#classbot)
 1. Group assignments
 1. Peer Reviews
 
+### Presumed timeline
+1. Week 1 - January 8th
+2. 
+
 ## Course Policies
 
 ### Writing Intensive
