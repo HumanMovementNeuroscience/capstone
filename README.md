@@ -56,27 +56,27 @@ This class will happen on a Discord server with configurable [AI bot](#classbot)
 
 Figuring out the rough topic area you want to explore for you capstone
 
-- Week 1 - January 8th ^
-- Week 2 - January 15th ^ 
-- Week 3 - January 22nd ^
-- Week 4 - January 29th ^
+- [x] Week 1 - January 8th ^
+- [x] Week 2 - January 15th ^ 
+- [x] Week 3 - January 22nd ^
+- [x] Week 4 - January 29th ^
   
 #### Development
 
 Developing your knowledge base and developing your project plan
 
-- Week 5 - February 5th
-- Week 6 - February 12th
-- Week 7 - February 19th
-- Week 8 - February 26th
+- [ ] Week 5 - February 5th
+- [ ] Week 6 - February 12th
+- [ ] Week 7 - February 19th
+- [ ] Week 8 - February 26th
 
 #### Execution  
 
 Generating the actual capstone project document
 
-- Week 9 - March 5th
-- Week 10 - March 12th
-- Week 11 - March 19th
+- [ ] Week 9 - March 5th
+- [ ] Week 10 - March 12th
+- [ ] Week 11 - March 19th
 - Week 12 - March 26th
 
 #### Integration  
