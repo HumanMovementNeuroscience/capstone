@@ -52,25 +52,37 @@ This class will happen on a Discord server with configurable [AI bot](#classbot)
 1. Peer Reviews
 
 ### Presumed timeline
-#### Explortation
+#### Exploration
+
+Figuring out the rough topic area you want to explore for you capstone
+
 - Week 1 - January 8th ^
 - Week 2 - January 15th ^ 
 - Week 3 - January 22nd ^
 - Week 4 - January 29th ^
   
 #### Development
+
+Developing your knowledge base and developing your project plan
+
 - Week 5 - February 5th
 - Week 6 - February 12th
 - Week 7 - February 19th
 - Week 8 - February 26th
 
 #### Execution  
+
+Generating the actual capstone project document
+
 - Week 9 - March 5th
 - Week 10 - March 12th
 - Week 11 - March 19th
 - Week 12 - March 26th
 
 #### Integration  
+
+Group work and presentations! 
+
 - Week 13 - April 2nd
 - Week 14 - April 9th
 - Week 15 - April 16th
