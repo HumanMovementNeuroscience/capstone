@@ -23,6 +23,8 @@
 
 The working title and major topics should be a few words each, 1 sentence tops.
 
+For example, 
+
 #### Step 2 - Make a channel for each topic
 - Make a channel for each major topic in your space
   - Click the plus sign next to the category name to make a new channel
