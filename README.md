@@ -53,7 +53,20 @@ This class will happen on a Discord server with configurable [AI bot](#classbot)
 
 ### Presumed timeline
 1. Week 1 - January 8th
-1. Week 
+1. Week 2 - January 15th
+1. Week 3 - January 22nd
+2. Week 4 - January 29th
+3. Week 5 - February 5th
+4. Week 6 - February 12th
+5. Week 7 - February 19th
+6. Week 8 - February 26th
+7. Week 9 - March 5th
+8. Week 10 - March 12th
+9. Week 11 - March 19th
+10. Week 12 - March 26th
+11. Week 13 - April 2nd
+12. Week 14 - April 9th
+13. Week 15 - April 16th
 
 ## Course Policies
 
