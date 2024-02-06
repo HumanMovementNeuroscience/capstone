@@ -1,6 +1,5 @@
 # Assignment 3 - Your Space
 
-## Your Space
 ### You now have a category in the server dedicated your capstone project!
 - It is named something like `#FF00FF` - i.e. the unique hex code you made when you signed up
   - Botto should've probably DM'd your ID to you if you forgot it 
