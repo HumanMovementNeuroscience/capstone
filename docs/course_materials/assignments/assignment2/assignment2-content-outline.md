@@ -11,7 +11,7 @@
   - Clearly summarize the content and relevance to your project.
 
 - **Tagging and Sharing**
-  - Create 'kebab case tags' for key concepts from your research.
+  - Create 'kebab-case-tags' for key concepts from your research.
   - Share content you find significant for peer review and feedback.
 
 ## Instructions for Students

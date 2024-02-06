@@ -29,7 +29,7 @@ In this course, each student will:
   - Asynchronous and decentralized project management
 
 ### Course structure
-This class will happen on a Discord server with a highly configurable AI bot that will assist each student with the development and management of their capstone project.
+This class will happen on a Discord server with configurable [AI bot](#classbot) that will assist each student with the development and management of their capstone project.
 
 #### Discord
 - Discord is a chat application that allows for text, voice, and video communication.
@@ -37,7 +37,7 @@ This class will happen on a Discord server with a highly configurable AI bot tha
 #### ClassBot
   - ClassBot - A configured instance of [SkellyBot](https://github.com/freemocap/skellybot)   
   - This bot is free and open source and managed by the [FreeMoCap Foundation](https://freemocapfoundation.org)
-  - Disclosure!
+    - [Disclosure! That's me, mostly](#disclosure)
 
 ### Assignments
 1.  Capstone Project
@@ -45,6 +45,9 @@ This class will happen on a Discord server with a highly configurable AI bot tha
     1.  Second checkpoint (full draft)
     1.  Final draft (aka The Thing Itself ✨)
 1. Individual assignments
+   1. [Assignment#1](./docs/course_materials/assignments/assignment1)
+   1. [Assignment#2](./docs/course_materials/assignments/assignment2)
+   1. [Assignment#3](./docs/course_materials/assignments/assignment3)
 1. Group assignments
 1. Peer Reviews
 
@@ -61,14 +64,14 @@ their work.
 
 ### Inclusion, diversity, and Title IX
 
-I value the diversity of students at Northeastern and strive to create a
+I value the diversity of students at Northeastern and strive to create a
 climate of inclusion for all regardless of background, country of
-origin, race, religion, gender, sexual orientation, ethnicity, or
+origin, race, religion, gender, sexual orientation, ethnicity, or
 disability status. If there are aspects of your culture or identity
-that you would like to share with me as they relate to your success in
-this class, I would be happy to meet with you. Also, if you have any
+that you would like to share with me as they relate to your success in
+this class, I would be happy to meet with you. Also, if you have any
 concerns or are facing any special issues or challenges, I encourage you
-to discuss the matter with me as you feel comfortable. Keep in mind,
+to discuss the matter with me as you feel comfortable. Keep in mind,
 however, that faculty members are considered "responsible employees" at
 Northeastern University, meaning we are required to report allegations
 of sex or gender-based discrimination to the Title IX Coordinator. For
@@ -80,10 +83,11 @@ Institutional Diversity and Inclusion webpage
 
 Don't claim another human's work as your own. 
 
-Other than that, you cannot cheat in this class. 
+Other than that, far as I can figure, there is no way to cheat in this class. 
 
 
 ## Disclosure
 - I (@jonmatthis) am the founder and president of the FreeMoCap Foundation and the primary developer of SkellyBot, the software that powers `Classbot.v3`
-- Any actions, words, comments I make in the context of this course are my own and are not representative of the FreeMoCap Foundation'
+- Any actions, words, comments I make in the context of this course are my own and are not representative of the FreeMoCap Foundation
 - Nor should any of these activities be considered endorsements by or solicitations of the FreeMoCap Foundation or related entities
+- If you have any questions about this, please ask!
