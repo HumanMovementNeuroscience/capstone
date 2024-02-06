@@ -53,7 +53,7 @@ This class will happen on a Discord server with configurable [AI bot](#classbot)
 
 ### Presumed timeline
 1. Week 1 - January 8th
-2. 
+1. Week 
 
 ## Course Policies
 
