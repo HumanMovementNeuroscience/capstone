@@ -56,10 +56,10 @@ This class will happen on a Discord server with configurable [AI bot](#classbot)
 
 Figuring out the rough topic area you want to explore for you capstone
 
-- [x] Week 1 - January 8th ^
-- [x] Week 2 - January 15th ^ 
-- [x] Week 3 - January 22nd ^
-- [x] Week 4 - January 29th ^
+- [x] Week 1 - January 8th
+- [x] Week 2 - January 15th
+- [x] Week 3 - January 22nd
+- [x] Week 4 - January 29th
   
 #### Development
 
