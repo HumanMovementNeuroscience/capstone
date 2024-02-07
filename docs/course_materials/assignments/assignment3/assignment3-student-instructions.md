@@ -45,6 +45,10 @@
 #specific-topic-tag3
 ```
 
+#### IMPORTANT DON'T SKIP THIS PART 👈
+- ONCE YOU HAVE SENT THE MESSAGE TO THE CHANNEL, ADD A 🤖 REACTION SO THE BOT WILL USE THAT MESSAGE IN ITS SYSTEM PROMPT
+
+
 NOTES - 
 - You can and will be changing this message regularly, so don't over think it! You're not getting married to it, so just get something down and you can and will  tweak/hone/improve continuously moving forward
 - By the way, this practice of changing the bot's behavior by changing its system prompt is called [Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
