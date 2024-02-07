@@ -45,7 +45,7 @@
 #specific-topic-tag3
 ```
 
-#### 👉 IMPORTANT DON'T SKIP THIS STEP 👈
+##### 👉 IMPORTANT DON'T SKIP THIS STEP 👈
 - ONCE YOU HAVE SENT THE MESSAGE TO THE CHANNEL, ADD A 🤖 REACTION SO THE BOT WILL USE THAT MESSAGE IN ITS SYSTEM PROMPT
 
 ---
@@ -64,16 +64,17 @@
             -   "In this channel, the student will talk to you about concepts, research, and methods related to oculomotor control and eye movements, with a particular focus on the neural bases of eye movements and tools for measuring eye movements in real-world settings" 
 
 ---
-##
+### NOTES
+- When generating text in this course, you will always have at least 3 options
+  **-  Option 1 - Use the bot**
+     - e.g. in this case: 
+       - Go back and extract summaries from your previous conversations about the topics you want to do your capstone about (or ignore them and start from scratch if you want - truly doesn't matter).
+       - Extract a short summary of your project. It should fit within a single discord message (so ~2000 characters) and be of the form
 
-##### Option 1 - Use the bot
-- Go back and extract summaries from your previous conversations about the topics you want to do your capstone about (or ignore them and start from scratch if you want - truly doesn't matter).
-  - Extract a short summary of your project. It should fit within a single discord message (so ~2000 characters) and be of the form
+  **- Option 2 - Do it yourself, manually**
+    - Just, like, write it all youself
+      - Pro: You get to write exactly the words you want
+      - Cons: You have the words yourself. 
 
-##### Option 2 - Do it yourself, manually
-- Just, like, write yourself
-  - Pro: You get to write exactly the words you want
-  - Cons: You have the words yourself. 
-
-##### Option 3 (aka the smart move) - Do both 
+  **- Option 3 (aka the smart move) - Do both **
 - Use the bot to help you get started, and then edit the text it produces so it ACTUALLY fits what you want it to say
