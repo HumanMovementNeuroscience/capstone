@@ -10,6 +10,12 @@
 - Talk about the general timelines expected (in the syllabus)
 - Also do the FreeMoCap disclosure thing explicitly
 
+
+
+### Current Assignment
+- [Assignment3](assignment3-student-instructions.md)
+
 ### AI tips, tricks, and pitfalls!
 - Mention the "giving the bot the citation and then asking about the paper content" thing
-### Cur
+- Mention the new capacties
+  - 
