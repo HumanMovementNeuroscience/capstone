@@ -14,17 +14,7 @@
 ### Task       
 #### Step 1 - set up your space
 
-##### Option 1 - Use the bot
-- Go back and extract summaries from your previous conversations about the topics you want to do your capstone about (or ignore them and start from scratch if you want - truly doesn't matter).
-  - Extract a short summary of your project. It should fit within a single discord message (so ~2000 characters) and be of the form
 
-##### Option 2 - Do it yourself, manually
-- Just, like, write yourself
-  - Pro: You get to write exactly the words you want
-  - Cons: You have the words yourself. 
-
-##### Option 3 (aka the smart move) - Do both 
-- Use the bot to help you get started, and then edit the text it produces so it ACTUALLY fits what you want it to say
 
 ```
 # Brief project description
@@ -49,3 +39,16 @@ For example,
     - Use the `#general-chat` channel to have conversations outside of any of these topics
     - Use that area to draft and hone text you are using in the different categories
 
+
+---
+##### Option 1 - Use the bot
+- Go back and extract summaries from your previous conversations about the topics you want to do your capstone about (or ignore them and start from scratch if you want - truly doesn't matter).
+  - Extract a short summary of your project. It should fit within a single discord message (so ~2000 characters) and be of the form
+
+##### Option 2 - Do it yourself, manually
+- Just, like, write yourself
+  - Pro: You get to write exactly the words you want
+  - Cons: You have the words yourself. 
+
+##### Option 3 (aka the smart move) - Do both 
+- Use the bot to help you get started, and then edit the text it produces so it ACTUALLY fits what you want it to say
