@@ -10,15 +10,17 @@
 - You have full control within your category to make channels and configure them as you like!
    - NOTE - If I have configured this correctly, 
       - You should have full control within your category, but OTHER students will only have 'view' access, not 'write' access
+- When you make a new /chat, the bot is configured to follow certain instructions that guides its behavior/personality
+- Every chat in the server will follow the instructions in the [`#bot-instructions🔝`](https://discord.com/channels/1194766712680222800/1194766713267433554) channel
+  - Specifically, every message tagged with a `🤖` reaction/emoji is added to the bots' 'System Prompt'
+    - The 'System Prompt' is (roughly speaking) a set of instructions that is stuffed into the bot's head to define its behavior
+- In this assignment you will be adding new system prompts to your category so that you can have conversations with the bot that a pre-configured to your project plans
 
 ### Task - set up your space   
 #### Step 1 - Setting up the Bot Prompt channel (#🤖-prompt-settings)
-- When you make a new /chat, the bot is configured to follow certain instructions that guides its behavior/personality
-- Every chat in the server will follow the instructions in the `[#bot-instructions🔝](https://discord.com/channels/1194766712680222800/1194766713267433554) channel
-  - Specifically, every message tagged with a `🤖` reaction/emoji is added to the bots' 'System Prompt'
+ - Go into the `🤖
 
 
-By the way, this practice of changing the bot's behavior by changing its system prompt is called [Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
 ```
 # Brief project description
 {1-2 sentences about what you want to focus on for your capstone project}
@@ -30,9 +32,7 @@ By the way, this practice of changing the bot's behavior by changing its system 
 ## Topic Area #3
 ```
 
-The working title and major topics should be a few words each, 1 sentence tops.
-
-For example, 
+By the way, this practice of changing the bot's behavior by changing its system prompt is called [Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
 
 #### Step 2 - Make a channel for each topic
 - Make a channel for each major topic in your space
