@@ -45,7 +45,7 @@
 #specific-topic-tag3
 ```
 
-#### IMPORTANT DON'T SKIP THIS PART 👈
+#### 👉 IMPORTANT DON'T SKIP THIS STEP 👈
 - ONCE YOU HAVE SENT THE MESSAGE TO THE CHANNEL, ADD A 🤖 REACTION SO THE BOT WILL USE THAT MESSAGE IN ITS SYSTEM PROMPT
 
 
@@ -53,7 +53,9 @@ NOTES -
 - You can and will be changing this message regularly, so don't over think it! You're not getting married to it, so just get something down and you can and will  tweak/hone/improve continuously moving forward
 - By the way, this practice of changing the bot's behavior by changing its system prompt is called [Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
 
-#### Step 2 - Make a channel for each topic
+---
+#### Step 2 - Pick your favorite topic tag, and make a channel conifigured for discussion of that topic
+- Click the + sign next to the Category Name
 - Make a channel for each major topic in your space
   - Click the plus sign next to the category name to make a new channel
   - Name the channel after the major topic
