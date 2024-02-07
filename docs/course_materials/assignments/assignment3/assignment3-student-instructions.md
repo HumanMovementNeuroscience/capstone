@@ -48,11 +48,6 @@
 #### 👉 IMPORTANT DON'T SKIP THIS STEP 👈
 - ONCE YOU HAVE SENT THE MESSAGE TO THE CHANNEL, ADD A 🤖 REACTION SO THE BOT WILL USE THAT MESSAGE IN ITS SYSTEM PROMPT
 
-
-NOTES - 
-- You can and will be changing this message regularly, so don't over think it! You're not getting married to it, so just get something down and you can and will  tweak/hone/improve continuously moving forward
-- By the way, this practice of changing the bot's behavior by changing its system prompt is called [Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
-
 ---
 #### Step 2 - Pick your favorite topic tag, and make a channel conifigured for discussion of that topic
 1.  Make a new channel in your category 
@@ -63,9 +58,14 @@ NOTES -
           - Use the `#general-chat` channel to have conversations outside of any of these topics
           - Use that area to draft and hone text you are using in the different categories
 1.  Change the channel description to provide the bot with context about what you plan to discuss in this channel 
-    1.  Click the `Edit Channel` 
+    1.  Click the `Edit Channel` and add some text to the 'Channel Topic' box with additional instructions for the bot
+    2.  The Channel Topic should be written as if you were giving instructions to a person (or person-like-object) about what to expect about  conversations in this channel
+        1.  i.e. for a channel called `oculomotor-control`, the description might be: 
+            -   "In this channel, the student will talk to you about concepts, research, and methods related to oculomotor control and eye movements, with a particular focus on the neural bases of eye movements and tools for measuring eye movements in real-world settings" 
 
 ---
+##
+
 ##### Option 1 - Use the bot
 - Go back and extract summaries from your previous conversations about the topics you want to do your capstone about (or ignore them and start from scratch if you want - truly doesn't matter).
   - Extract a short summary of your project. It should fit within a single discord message (so ~2000 characters) and be of the form
