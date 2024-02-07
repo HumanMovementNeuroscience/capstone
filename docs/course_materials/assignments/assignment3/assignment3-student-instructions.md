@@ -18,7 +18,7 @@
   - Specifically, every message tagged with a `🤖` reaction/emoji is added to the bots' 'System Prompt'
 
 
-
+By the way, this practice of changing the bot's behavior by changing its system prompt is called [Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
 ```
 # Brief project description
 {1-2 sentences about what you want to focus on for your capstone project}
