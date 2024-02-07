@@ -31,16 +31,23 @@
        - 3-5 more specific topic tags e.g. `#perceptuomotor-control` or `#CRISPR` or `#glioblastoma`
   - Your message should follow roughly this schema:
 ```
-# Brief project description
+# Brief project description (note there is a SPACE between the # and the text, denoting an `H1 heading`)
 {1-2 sentences about what you want to focus on for your capstone project}
 
-## Topic tags
-#general-topic-tag1
+## Topic tags (note that there are TWO ##, denoting `H2 heading`)
 
+#general-topic-tag1 (note there is NO SPACE between the # and the text, denoting `#tag`)
+#general-topic-tag2
+#general-topic-tag3
 
+#specific-topic-tag1
+#specific-topic-tag2
+#specific-topic-tag3
 ```
 
-By the way, this practice of changing the bot's behavior by changing its system prompt is called [Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
+NOTES - 
+- You can and will be changing this message regularly, so don't over think it! You're not getting married to it, so just get something down and you can and will  tweak/hone/improve continuously moving forward
+- By the way, this practice of changing the bot's behavior by changing its system prompt is called [Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
 
 #### Step 2 - Make a channel for each topic
 - Make a channel for each major topic in your space
