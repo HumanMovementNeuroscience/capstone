@@ -15,8 +15,9 @@
   - Specifically, every message tagged with a `🤖` reaction/emoji is added to the bots' 'System Prompt'
     - The 'System Prompt' is (roughly speaking) a set of instructions that is stuffed into the bot's head to define its behavior
 - In this assignment you will be adding new system prompts to your category so that you can have conversations with the bot that a pre-configured to your project plans
---
+---
 ### Task - set up your space   
+
 #### Step 1 - Setting up the Bot Prompt channel (#🤖-prompt-settings)
  - Go into the `🤖-prompt-settings`
  - Send a message to that channel that includes:
@@ -65,7 +66,10 @@
 
 ---
 ### NOTES
-- By the way, this practice of changing the bot's behavior by changing its system prompt is called [Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
+- Don't overthink it!!
+  - You can and will be changing these prompts a lot, so don't get too hung up on "getting it right" the first time
+  - Just get something down, and then expect that you've be honing and altering these prompts continuously throughout this class
+- This practice of changing the bot's behavior by changing its system prompt is called [Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
 - When generating text in this course, you will always have at least 3 options
   **-  Option 1 - Use the bot**
      - e.g. in this case: 
@@ -77,5 +81,5 @@
       - Pro: You get to write exactly the words you want
       - Cons: You have the words yourself. 
 
-  **- Option 3 (aka the smart move) - Do both **
-      - Use the bot to help you get started, and then edit the text it produces so it ACTUALLY fits what you want it to say
+  **- Option 3 (aka the smart move) - Do both**
+    - Use the bot to help you get started, and then edit the text it produces so it ACTUALLY fits what you want it to say
