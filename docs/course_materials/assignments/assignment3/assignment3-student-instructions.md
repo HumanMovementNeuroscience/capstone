@@ -11,8 +11,10 @@
    - NOTE - If I have configured this correctly, 
       - You should have full control within your category, but OTHER students will only have 'view' access, not 'write' access
 
-### Task       
-#### Step 1 - set up your space
+### Task - set up your space   
+#### Step 1 - Setting up the Bot Prompt channel (#🤖-prompt-settings)
+- When you make a new /chat, the bot is configured to follow certain instructions that guides its behavior/personality
+- Every chat in the server will follow the instructions in the 
 
 
 
