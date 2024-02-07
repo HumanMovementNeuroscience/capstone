@@ -55,9 +55,9 @@ NOTES -
 
 ---
 #### Step 2 - Pick your favorite topic tag, and make a channel conifigured for discussion of that topic
-- Click the + sign next to the Category Name
-- Make a channel for each major topic in your space
-  - Click the plus sign next to the category name to make a new channel
+- Make a new channel in your category 
+  - Click the + sign next to the Category Name
+  - Select `# TEXT` channel
   - Name the channel after the major topic
   - Click the Edit Channel button and add some more detail about the topic and how it relates to your project/intests
     - Use the `#general-chat` channel to have conversations outside of any of these topics
