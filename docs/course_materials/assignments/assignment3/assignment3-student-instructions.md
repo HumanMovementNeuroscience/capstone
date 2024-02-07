@@ -1,24 +1,27 @@
 # Assignment 3 - Your Space
 
-### You now have a category in the server dedicated your capstone project!
+### You now have a category in the server dedicated you and your capstone project!
 - It is named something like `#FF00FF` - i.e. the unique hex code you made when you signed up
   - Botto should've probably DM'd your ID to you if you forgot it 
 - You have full control within your category to make channels and configure them as you like!
 
 ### Task
 #### Step 1 - set up your space
+
+##### Option 1 - Use the bot
 - Go back and extract summaries from your previous conversations about the topics you want to do your capstone about (or ignore them and start from scratch if you want - truly doesn't matter).
 - Extract a short summary of your project. It should fit within a single discord message (so ~2000 characters) and be of the form: 
 
 
 ```
-# Working title  
+# Brief project description
+{1-2 sentences about what you want to focus on for your capstone project}
 
-## Major Topic 1 
+## Topic Area #1
 
-## Major Topic 2
+## Topic Area #2
 
-## Major Topic 3
+## Topic Area #3
 ```
 
 The working title and major topics should be a few words each, 1 sentence tops.

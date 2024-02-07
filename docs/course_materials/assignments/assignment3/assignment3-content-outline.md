@@ -12,7 +12,7 @@
 
 
 
-### Current Assignment
+### Current Task
 - [Assignment3](assignment3-student-instructions.md)
 
 ### AI tips, tricks, and pitfalls!
