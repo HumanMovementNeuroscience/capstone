@@ -77,7 +77,7 @@ Generating the actual capstone project document
 - [ ] Week 9 - March 5th
 - [ ] Week 10 - March 12th
 - [ ] Week 11 - March 19th
-- Week 12 - March 26th
+- [ ] Week 12 - March 26th
 
 #### Integration  
 
