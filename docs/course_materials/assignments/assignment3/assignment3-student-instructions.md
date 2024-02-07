@@ -1,21 +1,21 @@
 # Assignment 3 - Your Space
-
-
-
 ### Background 
 - You now have a category in the server dedicated you and your capstone project!
 - It is named something like `#FF00FF` 
   - i.e. the unique hex code you made when you signed up
   - Botto should've probably DM'd your ID to you if you forgot it 
+   
 - You have full control within your category to make channels and configure them as you like!
    - NOTE - If I have configured this correctly, 
       - You should have full control within your category, but OTHER students will only have 'view' access, not 'write' access
+  
 - When you make a new /chat, the bot is configured to follow certain instructions that guides its behavior/personality
+  
 - Every chat in the server will follow the instructions in the [`#bot-instructions🔝`](https://discord.com/channels/1194766712680222800/1194766713267433554) channel
   - Specifically, every message tagged with a `🤖` reaction/emoji is added to the bots' 'System Prompt'
     - The 'System Prompt' is (roughly speaking) a set of instructions that is stuffed into the bot's head to define its behavior
 - In this assignment you will be adding new system prompts to your category so that you can have conversations with the bot that a pre-configured to your project plans
-
+--
 ### Task - set up your space   
 #### Step 1 - Setting up the Bot Prompt channel (#🤖-prompt-settings)
  - Go into the `🤖-prompt-settings`
@@ -65,6 +65,7 @@
 
 ---
 ### NOTES
+- By the way, this practice of changing the bot's behavior by changing its system prompt is called [Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
 - When generating text in this course, you will always have at least 3 options
   **-  Option 1 - Use the bot**
      - e.g. in this case: 
@@ -77,4 +78,4 @@
       - Cons: You have the words yourself. 
 
   **- Option 3 (aka the smart move) - Do both **
-- Use the bot to help you get started, and then edit the text it produces so it ACTUALLY fits what you want it to say
+      - Use the bot to help you get started, and then edit the text it produces so it ACTUALLY fits what you want it to say
