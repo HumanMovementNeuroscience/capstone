@@ -30,13 +30,14 @@
        - 3-5 very general topic tags, e.g. `#neuroscience` or `#genetics` or `#oncology`
        - 3-5 more specific topic tags e.g. `#perceptuomotor-control` or `#CRISPR` or `#glioblastoma`
   - Your message should follow roughly this schema:
-  - ```
+```
 # Brief project description
 {1-2 sentences about what you want to focus on for your capstone project}
 
-#topic-area-1
-#topic-area-2
-#topic-area-3
+## Topic tags
+#general-topic-tag1
+
+
 ```
 
 By the way, this practice of changing the bot's behavior by changing its system prompt is called [Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
