@@ -18,18 +18,25 @@
 
 ### Task - set up your space   
 #### Step 1 - Setting up the Bot Prompt channel (#🤖-prompt-settings)
- - Go into the `🤖
-
-
-```
+ - Go into the `🤖-prompt-settings`
+ - Send a message to that channel that includes:
+   - **A brief description of what you intend to do for your capstone project**
+     - If you aren't sure about your topic yet, just say so in the message!
+       - Like, "I'm not totally sure yet, but it will be realted to [something something something]"
+   - **#topic-tags representing topic areas related to your project**
+     - These should be written with a leading # and `kebab-case` formatting (i.e. lowercase words separated by hypens)
+     - The tag itself should be 2-3 words long
+     - Include: 
+       - 3-5 very general topic tags, e.g. `#neuroscience` or `#genetics` or `#oncology`
+       - 3-5 more specific topic tags e.g. `#perceptuomotor-control` or `#CRISPR` or `#glioblastoma`
+  - Your message should follow roughly this schema:
+  - ```
 # Brief project description
 {1-2 sentences about what you want to focus on for your capstone project}
 
-## Topic Area #1
-
-## Topic Area #2
-
-## Topic Area #3
+#topic-area-1
+#topic-area-2
+#topic-area-3
 ```
 
 By the way, this practice of changing the bot's behavior by changing its system prompt is called [Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
