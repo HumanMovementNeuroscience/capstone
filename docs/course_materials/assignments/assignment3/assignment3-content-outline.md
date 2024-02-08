@@ -2,9 +2,10 @@
 
 ## Intro
 ### Meta chat about the course
-- its hard to teach a class in how to write a grant proposal or whatever when the fundamental tools that I use to do that changed dramatically recently 
+- Its hard to teach a class in how to write a grant proposal or whatever when the fundamental tools that I use to do that changed dramatically recently 
 - so, like, I'm trying to teach you how to do something that I am currently figuring out how to do myself. 
-- updates to the syllanus
+#### Course Materials
+- updates to the syllabus
 - added `#important links` channel
 - give some info about the expectations for the capstone project
   - Especially w.r.t.
