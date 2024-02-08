@@ -1,10 +1,10 @@
 # Assignment3 - Building your workspace 
 
-## Intro
-### Meta chat about the course
+
+## Part 1 - Meta chat about the course
 - Its hard to teach a class in how to write a grant proposal or whatever when the fundamental tools that I use to do that changed dramatically recently 
 - so, like, I'm trying to teach you how to do something that I am currently figuring out how to do myself. 
-#### Course Materials
+### Course Materials
 - updates to the syllabus
 - added `#important links` channel
 - give some info about the expectations for the capstone project
@@ -14,7 +14,7 @@
 - Talk about the general timelines expected (in the syllabus)
 - Also do the FreeMoCap disclosure thing explicitly
 
-### AI tips, tricks, and pitfalls!
+## Part 2 - AI tips, tricks, and pitfalls!
 - Lots of short chats are better than a couple long ones 
   - or at least, they are different and serve different purposes
 - Mention the "giving the bot the citation and then asking about the paper content" thing
@@ -26,6 +26,6 @@
  
 
 
-###  [Assignment3 - setting up your space](assignment3-student-instructions.md)
+### Part 3 -  [Assignment3 - setting up your space](assignment3-student-instructions.md)
 
 
