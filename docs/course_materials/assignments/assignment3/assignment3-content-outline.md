@@ -3,6 +3,10 @@
 ## Part A - Course prep check in 
 - Its hard to teach a class in how to write a grant proposal or whatever when the fundamental tools that I use to do that changed dramatically recently 
 - so, like, I'm trying to teach you how to do something that I am currently figuring out how to do myself. 
+### My plans
+- short (next week)
+- medium (As ASAP as Possible)
+- long (Before the end of the semester)
 ### Course Materials
 - updates to the syllabus
 - added `#important links` channel
