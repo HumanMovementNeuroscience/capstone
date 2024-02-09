@@ -3,7 +3,7 @@
 - You now have a category in the server dedicated you and your capstone project!
 - It is named something like `#FF00FF` 
   - i.e. the unique hex code you made when you signed up
-   
+
 - You have full control within your category to make channels and configure them as you like!
    - NOTE - If I have configured this correctly, 
       - You should have full control within your category, but OTHER students will only have 'view' access, not 'write' access
