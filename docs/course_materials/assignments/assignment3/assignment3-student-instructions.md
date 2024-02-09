@@ -85,16 +85,18 @@
 
 
 ```
-# Brief project description (note there is a SPACE between the # and the text, denoting an `H1 heading`)
-{1-2 sentences about what you want to focus on for your capstone project}
+# Brief project description 
+I wanna study kangaroo bouncing! Whats's up with their achilles and stuff. What can we learn about ACL injuries from that. 
 
 ## Topic tags (note that there are TWO ##, denoting `H2 heading`)
 
-#general-topic-tag1 (note there is NO SPACE between the # and the text, denoting `#tag`)
-#general-topic-tag2
-#general-topic-tag3
+#biomechanics
+#animals
+#physiology 
+#clinical
 
-#specific-topic-tag1
-#specific-topic-tag2
-#specific-topic-tag3
+#energy-storage-and-return
+#kangaroo
+#musculoskeltal
+#sports-related-injuries
 ```
