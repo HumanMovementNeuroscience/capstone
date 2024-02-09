@@ -68,7 +68,7 @@
 ### NOTES
 - Don't overthink it!!
   - You can and will be changing these prompts a lot, so don't get too hung up on "getting it right" the first time
-  - Just get something down, and then expect that you've be honing and altering these prompts continuously throughout this class
+  - Just get something do  wn, and then expect that you've be honing and altering these prompts continuously throughout this class
 - This practice of changing the bot's behavior by changing its system prompt is called [Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
 - When generating text in this course, you will always have at least 3 options
   **-  Option 1 - Use the bot**
