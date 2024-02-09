@@ -17,7 +17,7 @@
 - Talk about the general timelines expected (in the syllabus)
 - Also do the FreeMoCap disclosure thing explicitly
 
-## Part B - AI tips, tricks, and pitfalls!
+## Part B - Responsive Instructions
 - Lots of short chats are better than a couple long ones 
   - or at least, they are different and serve different purposes
 - Mention the "giving the bot the citation and then asking about the paper content" thing
