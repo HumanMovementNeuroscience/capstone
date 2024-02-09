@@ -54,7 +54,7 @@
       1. Click the + sign next to the Category Name
       1. Select `# TEXT` channel
       1. Name the channel after the major topic
-      1. Click the Edit Channel button and add some more detail about the topic and how it relates to your project/intests
+      1. Click the `Edit Channel` button and add some more detail about the topic and how it relates to your project/intests
           - Use the `#general-chat` channel to have conversations outside of any of these topics
           - Use that area to draft and hone text you are using in the different categories
 1.  Change the channel description to provide the bot with context about what you plan to discuss in this channel 
@@ -84,6 +84,7 @@
     - Use the bot to help you get started, and then edit the text it produces so it ACTUALLY fits what you want it to say
 
 
+## Example Bot Prompt:
 ```
 # Brief project description 
 I wanna study kangaroo bouncing! Whats's up with their achilles and stuff. What can we learn about ACL injuries from that. 
