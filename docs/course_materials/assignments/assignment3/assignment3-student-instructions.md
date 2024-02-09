@@ -82,3 +82,18 @@
 
   **- Option 3 (aka the smart move) - Do both**
     - Use the bot to help you get started, and then edit the text it produces so it ACTUALLY fits what you want it to say
+
+
+
+# Brief project description (note there is a SPACE between the # and the text, denoting an `H1 heading`)
+{1-2 sentences about what you want to focus on for your capstone project}
+
+## Topic tags (note that there are TWO ##, denoting `H2 heading`)
+
+#general-topic-tag1 (note there is NO SPACE between the # and the text, denoting `#tag`)
+#general-topic-tag2
+#general-topic-tag3
+
+#specific-topic-tag1
+#specific-topic-tag2
+#specific-topic-tag3
