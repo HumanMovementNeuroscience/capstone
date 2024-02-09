@@ -1,5 +1,5 @@
 # Assignment 3 - Your Space
-### Background 
+## Background 
 - You now have a category in the server dedicated you and your capstone project!
 - It is named something like `#FF00FF` 
   - i.e. the unique hex code you made when you signed up
@@ -16,9 +16,9 @@
     - The 'System Prompt' is (roughly speaking) a set of instructions that is stuffed into the bot's head to define its behavior
 - In this assignment you will be adding new system prompts to your category so that you can have conversations with the bot that a pre-configured to your project plans
 ---
-### Task - set up your space   
+## Task - set up your space   
 
-#### Step 1 - Setting up the Bot Prompt channel (#🤖-prompt-settings)
+### Step 1 - Setting up the Bot Prompt channel (#🤖-prompt-settings)
  - Go into the `🤖-prompt-settings`
  - Send a message to that channel that includes:
    - **A brief description of what you intend to do for your capstone project**
@@ -46,11 +46,11 @@
 #specific-topic-tag3
 ```
 
-##### 👉 IMPORTANT DON'T SKIP THIS STEP 👈
+#### 👉 IMPORTANT DON'T SKIP THIS STEP 👈
 - ONCE YOU HAVE SENT THE MESSAGE TO THE CHANNEL, ADD A 🤖 REACTION SO THE BOT WILL USE THAT MESSAGE IN ITS SYSTEM PROMPT
 
 ---
-#### Step 2 - Pick your favorite topic tag, and make a channel conifigured for discussion of that topic
+### Step 2 - Pick your favorite topic tag, and make a channel conifigured for discussion of that topic
 1.  Make a new channel in your category 
       1. Click the + sign next to the Category Name
       1. Select `# TEXT` channel
@@ -65,7 +65,7 @@
             -   "In this channel, the student will talk to you about concepts, research, and methods related to oculomotor control and eye movements, with a particular focus on the neural bases of eye movements and tools for measuring eye movements in real-world settings" 
 
 ---
-### NOTES
+## NOTES
 - Don't overthink it!!
   - You can and will be changing these prompts a lot, so don't get too hung up on "getting it right" the first time
   - Just get something do  wn, and then expect that you've be honing and altering these prompts continuously throughout this class
