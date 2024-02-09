@@ -1,6 +1,5 @@
 # Video 2 - Building your workspace 
 
-
 ## Part A - Meta chat about the course
 - Its hard to teach a class in how to write a grant proposal or whatever when the fundamental tools that I use to do that changed dramatically recently 
 - so, like, I'm trying to teach you how to do something that I am currently figuring out how to do myself. 
