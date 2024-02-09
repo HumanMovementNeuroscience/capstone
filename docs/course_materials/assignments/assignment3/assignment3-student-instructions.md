@@ -84,7 +84,7 @@
     - Use the bot to help you get started, and then edit the text it produces so it ACTUALLY fits what you want it to say
 
 
-
+```
 # Brief project description (note there is a SPACE between the # and the text, denoting an `H1 heading`)
 {1-2 sentences about what you want to focus on for your capstone project}
 
@@ -97,3 +97,4 @@
 #specific-topic-tag1
 #specific-topic-tag2
 #specific-topic-tag3
+```
