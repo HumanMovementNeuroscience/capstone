@@ -49,7 +49,7 @@
 - ONCE YOU HAVE SENT THE MESSAGE TO THE CHANNEL, ADD A 🤖 REACTION SO THE BOT WILL USE THAT MESSAGE IN ITS SYSTEM PROMPT
 
 ---
-### Step 2 - Pick your favorite topic tag, and make a channel conifigured for discussion of that topic
+### Step 2 - Pick your favorite GENERAL topic tag, and make a channel conifigured for discussion of that topic
 1.  Make a new channel in your category 
       1. Click the + sign next to the Category Name
       1. Select `# TEXT` channel
@@ -59,7 +59,7 @@
           - Use that area to draft and hone text you are using in the different categories
 1.  Change the channel description to provide the bot with context about what you plan to discuss in this channel 
     1.  Click the `Edit Channel` and add some text to the 'Channel Topic' box with additional instructions for the bot
-    2.  The Channel Topic should be written as if you were giving instructions to a person (or person-like-object) about what to expect about  conversations in this channel
+    1.  The Channel Topic should be written as if you were giving instructions to a person (or person-like-object) about what to expect about  conversations in this channel
         1.  i.e. for a channel called `oculomotor-control`, the description might be: 
             -   "In this channel, the student will talk to you about concepts, research, and methods related to oculomotor control and eye movements, with a particular focus on the neural bases of eye movements and tools for measuring eye movements in real-world settings" 
 
