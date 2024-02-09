@@ -3,7 +3,6 @@
 - You now have a category in the server dedicated you and your capstone project!
 - It is named something like `#FF00FF` 
   - i.e. the unique hex code you made when you signed up
-  - Botto should've probably DM'd your ID to you if you forgot it 
    
 - You have full control within your category to make channels and configure them as you like!
    - NOTE - If I have configured this correctly, 
