@@ -1,4 +1,4 @@
-# Assignment 3 - Your Space
+# Exercise 3 - Your Space
 ## Background 
 - You now have a category in the server dedicated you and your capstone project!
 - It is named something like `#FF00FF` 
@@ -13,7 +13,7 @@
 - Every chat in the server will follow the instructions in the [`#bot-instructions🔝`](https://discord.com/channels/1194766712680222800/1194766713267433554) channel
   - Specifically, every message tagged with a `🤖` reaction/emoji is added to the bots' 'System Prompt'
     - The 'System Prompt' is (roughly speaking) a set of instructions that is stuffed into the bot's head to define its behavior
-- In this assignment you will be adding new system prompts to your category so that you can have conversations with the bot that a pre-configured to your project plans
+- In this Exercise you will be adding new system prompts to your category so that you can have conversations with the bot that a pre-configured to your project plans
 ---
 ## Task - set up your space   
 

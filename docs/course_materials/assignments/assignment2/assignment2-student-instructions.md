@@ -1,4 +1,4 @@
-# Assignment 2 - Article Summary Extraction  
+# Exercise 2 - Article Summary Extraction  
 
 ### 1. Go into the #2-paper-summary-extraction (https://discord.com/channels/1194766712680222800/1200118663043371088) channel, pop open a `/chat` and talk to the bot about some paper or another on any topic that you are interested in (i.e. roughly related to your hypothetical capstone topic)
 

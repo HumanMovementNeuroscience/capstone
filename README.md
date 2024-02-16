@@ -39,16 +39,16 @@ This class will happen on a Discord server with configurable [AI bot](#classbot)
   - This bot is free and open source and managed by the [FreeMoCap Foundation](https://freemocapfoundation.org)
     - [Disclosure! That's me, mostly](#disclosure)
 
-### Assignments
+### Exercises
 1.  Capstone Project
     1.  First checkpoint (full outline)
     1.  Second checkpoint (full draft)
     1.  Final draft (aka The Thing Itself ✨)
-1. Individual assignments
-   1. [Assignment#1](./docs/course_materials/assignments/assignment1)
-   1. [Assignment#2](./docs/course_materials/assignments/assignment2)
-   1. [Assignment#3](./docs/course_materials/assignments/assignment3)
-1. Group assignments
+1. Individual Exercises
+   1. [Exercise#1](./docs/course_materials/Exercises/Exercise1)
+   1. [Exercise#2](./docs/course_materials/Exercises/Exercise2)
+   1. [Exercise#3](./docs/course_materials/Exercises/Exercise3)
+1. Group Exercises
 1. Peer Reviews
 
 ### Presumed timeline

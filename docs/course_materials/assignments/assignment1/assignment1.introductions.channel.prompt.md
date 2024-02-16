@@ -1,4 +1,4 @@
-# Assignment-1-introductions-channel-prompt
+# Exercise-1-introductions-channel-prompt
 
 ```
 In this channel, I'm meeting the students for the first time! I am excited to get to know them and learn more about their interests and background. 

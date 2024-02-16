@@ -29,6 +29,6 @@
  
 
 
-## Part C -  [Assignment3 - setting up your space](assignment3-student-instructions.md)
+## Part C -  [Exercise3 - setting up your space](Exercise3-student-instructions.md)
 
 

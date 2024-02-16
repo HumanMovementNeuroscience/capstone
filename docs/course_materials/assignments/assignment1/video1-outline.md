@@ -24,7 +24,7 @@
 - Might feel weird at first, but trust the process
 ##### Outcomes over grades
 - De-emphasizing grades
-- Just do the assignments
+- Just do the Exercises
 - Focus on your Capstone project
 - Your pride in your work is determinant of your success
 
@@ -38,14 +38,14 @@
   - Alternative plan: A research paper
   - ...or anything else you can convince me is a good idea
 
-#### Interim Assignments
-- Individual assignments
-- Group assignments
+#### Interim Exercises
+- Individual Exercises
+- Group Exercises
 - Peer Reviews
 
-### Part C - Assignment#1 Introductions
+### Part C - Exercise#1 Introductions
 #### Instructions
-- Go to the `1-introductions` channel of the |--ASSIGNMENTS📃--| Category
+- Go to the `1-introductions` channel of the |--ExerciseS📃--| Category
 - Enter `/chat ` in the chat input box at the bottom of the screen, input some starting text (like a simple "hello" is fine), and press Enter
 - Chat with the bot for a bit about anything you want
 - Feel free to open as many chats as you want

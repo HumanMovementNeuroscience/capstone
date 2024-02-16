@@ -1,4 +1,4 @@
-# Assignment 2: Research and Tool Integration
+# Exercise 2: Research and Tool Integration
 
 
 ## Main Focus
