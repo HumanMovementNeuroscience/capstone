@@ -1,4 +1,4 @@
-name: built_mkdocs_website
+name: build_mkdocs_website
 on:
   push:
     branches:
