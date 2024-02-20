@@ -1,12 +1,9 @@
 # Byte-compiled / optimized / DLL files
-.idea/*
 
 __pycache__/
-Data/
-.vscode/
+
 *.py[cod]
 *$py.class
-freemocap\user_preferences.yaml
 
 # C extensions
 *.so
@@ -135,11 +132,7 @@ dmypy.json
 .vscode/launch.json
 
 
-update_pip.txt
-freemocap/user_preferences.yaml
 
-.obsidian/
-data/
 
 
 *.avi
