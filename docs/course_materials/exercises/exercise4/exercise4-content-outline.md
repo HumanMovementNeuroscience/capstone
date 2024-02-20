@@ -1,7 +1,7 @@
 # Exercise 4 - Building your tree 🌱
 
 ## Course Dev update
-- Share details about the structure of the actual [capstone project](exercise4-planning-notes.md)
+- Share details about the structure of the actual [capstone project](../../capstone-project-description.md)
 - Discuss the Discord as a  collaborative text editor / data collection tool 
 - Show examples of the contentful output from previous iterations of this class  
 
