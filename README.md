@@ -11,6 +11,7 @@ I am available for office hours by appointment - contact me via Discord or email
 ### Important Links
 - Bot code: https://github.com/freemocap/skellybot
 - Canvas site: https://northeastern.instructure.com/courses/165978
+- Couse GitHub Repo: https://github.com/HumanMovementNeuroscience/capstone
  
 ## Course Description 
 In this capstone course, you (the student reading this) will create a unique project that showcases and hones the techincal skills and intellectual interests.
@@ -34,6 +35,8 @@ This class will happen on a Discord server with configurable [AI bot](#classbot)
 #### Discord
 - Discord is a chat application that allows for text, voice, and video communication.
 - This course will be primarily run through Discord (and the Ai Bot that lives there)
+
+ 
 #### ClassBot
   - ClassBot - A configured instance of [SkellyBot](https://github.com/freemocap/skellybot)   
   - This bot is free and open source and managed by the [FreeMoCap Foundation](https://freemocapfoundation.org)
