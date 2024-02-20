@@ -24,7 +24,7 @@ But we're gonna do it in 3 parts
   - Submit as much of it as you got done. The goal is non-zero progress and a rough sketch 
 - Second checkpoint is next friday March 1st
   - Submit a complete version of this outline
-- Third checkpoint is the following friday March 8th
+- Third checkpoint is the following Friday March 8th
   - Submit a revised/polished version 
 
 
