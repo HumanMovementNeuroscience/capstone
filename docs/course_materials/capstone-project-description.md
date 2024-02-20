@@ -1,9 +1,9 @@
 # Capstone Project 
 
 ## FOSS-style docs
-- conitnue 'knowledge tree' part
+- continue 'knowledge tree' part
 - make some kind of auto-building static website via GH Pages
-- Evalutation == somekinda graph math 
+- Evalutation == some kinda graph math 
    
 ##  NIH R01 
  -  big grant, like million dollar budget for a 5 year research program

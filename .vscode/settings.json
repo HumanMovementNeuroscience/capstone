@@ -1,5 +1,5 @@
 {
-  "files.autoSave": "off",
+  "files.autoSave": "afterDelay",
   "editor.minimap.enabled": false,
   "editor.wrappingIndent": "indent",
   "editor.overviewRulerBorder": false,

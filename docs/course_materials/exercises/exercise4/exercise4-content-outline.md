@@ -11,7 +11,7 @@
   - 3 main topics
   - 3 minor topics (per main)
   - 3 citations per minor topic
- - (and like, your own 'discusion' section, as appropriate)
+
   
 ## Course Development and Tools
 - Introduce VS Code, Obsidian as tools for the course, and introduce Markdown
