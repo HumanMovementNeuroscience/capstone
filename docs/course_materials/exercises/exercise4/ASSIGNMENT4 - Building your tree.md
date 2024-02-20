@@ -9,8 +9,10 @@
   - (or some docx nonsense, but you have convert it to raw text/markdown on your own)
  
 
-The full 
+The full assignment will be:
+
 - Use a 3x3 structure to organize your topics and subtopics.
   - 3 main topics
   - 3 minor topics (per main)
   - 3 citations per minor topic
+
