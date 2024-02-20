@@ -12,5 +12,7 @@
   - 3 citations per minor topic
 
 
-Part 1 - Turn in a portion of your tree on Fri 
-Part 2 - Turn in the rest of it on 03/01
+Part 1 - Turn in a portion of your tree on Fri Feb 23
+Part 2 - Turn in the rest of it on Friday March 1st
+
+The only rule, is you can't turn in the same document twice
