@@ -20,8 +20,9 @@ The full assignment will be:
 
 But we're gonna do it in 3 parts
 
-- First checkpoint is this friday 
-  - Submit as much of it as you got done. The goal is non-zero
+- First checkpoint is this friday Feb 23rd
+  - Submit as much of it as you got done. The goal is non-zero progress and a rough sketch 
+- Second checkpoint
 
 
 
