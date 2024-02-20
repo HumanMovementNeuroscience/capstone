@@ -12,8 +12,16 @@
 The full assignment will be:
 
 - Use a 3x3 structure to organize your topics and subtopics.
-  - 3 main topics
-  - 3 minor topics (per main)
+  - 3 main topics (less than one sentence)
+  - 3 minor topics (per main point, roughly 1 sentence)
   - 3 citations per minor topic
+    - the citation with a 1-2 sentence summary 
     - Make sure these citations are logged in your Zotero (or whatever) profile
+
+But we're gonna do it in 3 parts
+
+- First checkpoint is this friday 
+  - Submit as much of it as you got done. The goal is non-zero
+
+
 
