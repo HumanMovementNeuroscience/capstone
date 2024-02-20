@@ -35,13 +35,14 @@
     "Gruntfuggly.todo-tree",
     // JSM - added
     // Continue.dev - Github Co-pilot alternative
-    "continue.continue",
+    // "continue.continue",
     //Rainbow CSV - colors csv coloumns
     "mechatroner.rainbow-csv",
     //JSON crack - Visualizer JSON's like Trees 
     "aykutsarac.jsoncrack-vscode",
     //Markdown Mind Map Preview - View Markdown headings as Mind Map tree
-    "josephcz.vscode-markdown-mindmap-preview",
+    // "josephcz.vscode-markdown-mindmap-preview",
+    "gera2ld.markmap-vscode",
     //Git Lens
     //Python
     "ms-python.python",
