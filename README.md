@@ -70,8 +70,8 @@ Developing your knowledge base and developing your project plan
 
 - [X] Week 5 - February 5th
 - [x] Week 6 - February 12th
-- [x] Week 7 - February 19th - [[ASSIGNMENT4 - Building your tree]] -  part 1 due
-- [ ] Week 8 - February 26th - [[ASSIGNMENT4 - Building your tree]] -  part 2 due
+- [x] Week 7 - February 19th - [ASSIGNMENT4 - Building your tree](https://google.com) -  part 1 due
+- [ ] Week 8 - February 26th- [[ASSIGNMENT4 - Building your tree]] -  part 2 due
 
 #### Execution  
 
