@@ -1,18 +1,14 @@
 # ASSIGNMENT4 - Building your tree
 
-- Start with a single markdown page to outline your project.
-  - Use VS Code, or 
-  - Obsidian, or 
-  - HackMD
-  - (or some docx nonsense, but you have convert it to raw text/markdown on your own)
-  
+- Create a high level outline of your capstone project
+
+- Make it in Markdown, using:
+  - VS Code - https://code.visualstudio.com/, or 
+  - ObsidianMD -  https:/https://obsidian.md/   
+  - HackMD - https://hackmd.io
+  - (or some docx nonsense, but you have convert it to raw text/markdown on your own)
+  
 - Use a 3x3 structure to organize your topics and subtopics.
-  - 3 main topics
-  - 3 minor topics (per main)
-  - 3 citations per minor topic
-
-
-Part 1 - Turn in a portion of your tree on Fri Feb 23
-Part 2 - Turn in the rest of it on Friday March 1st
-
-The only rule, is you can't turn in the same document twice
+  - 3 main topics
+  - 3 minor topics (per main)
+  - 3 citations per minor topic
