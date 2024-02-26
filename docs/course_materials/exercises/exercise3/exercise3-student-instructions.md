@@ -47,49 +47,84 @@ My Capstone is about:
 ```
 
 
-** ‼️ 👉 IMPORTANT DON'T SKIP THIS STEP 👈‼️ **
+#### **‼️ 👉 IMPORTANT DON'T SKIP THIS STEP 👈‼️**
 - ONCE YOU HAVE SENT THE MESSAGE TO THE CHANNEL, ADD A 🤖 REACTION SO THE BOT WILL USE THAT MESSAGE IN ITS SYSTEM PROMPT
 
-### Step 2 - High level chat with the bot
+### Step 2 - Setting up the channels
+
+#### Step 2a - Make the channels
+  - [How to make a new channel in your category](#how-to-to-make-a-new-channel-in-your-category)
+  - Make a channel for each of the `#topic-channel` tags in your bot prompt
+    - i.e. if you have a `#topic-channel-1` tag in your bot prompt, you should make a channel called `topic-channel-1`
+  - NOTE: You can only make channels in YOUR category
+    - i.e. if your Student ID / assigned role is `#FF00FF`, you can only make channels in the `#FF00FF` category
+
+
+#### Step 2b - Add a description to the each of the topic channels to hone the discussion to your interests
+ - [How to change a channel description](#how-to-change-a-channel-description)
+ - Add a brief description that will help clarify the aspects of the channel's topic/title you want to discuss 
+   - For example, if you named the channel `#neuroscience` but know that you are mostly interested in stuff related to vision and human movement, you might add a description like: 
+   - > `In this channel, we will specifically be discussing the parts of neuroscience that are most related to vision and human movement`
+     - NOTE: 
+       - The bot will already be able to see the channel name
+       - Less is more! This description will be automatically added to the prompt of each /chat that happens in that channel, so you don't want to say TOO much
+         - Better to be terse with it, and then add details in the /chat itself
+
+
+  
+### Step 3 - High level chat with the bot
+
+Have a high level convestation wtih the bot about the overall structure of your project
+
 1. Open a `/chat` in the `#general-chat` channel of your server
 2. Confirm that the bot can see your prompt by asking it to give you an overview of your own capstone project
   - e.g. "Can you give me a summary of my capstone project?"
   - Continue the conversation for a few exchanges to see if the bot 'understands' what you meant in your prompt message. 
   - If you don't like the response, go edit the message, **open a new /chat** and try again
   - Iterate until the bot is describing your project in a way that aligns with your vision of it
-  
-### Step 3 
-- Technical skills for this step are in the [Technical Instructions](#technical-instructions) section below
-  - [How to to make a new channel in your category](#how-to-to-make-a-new-channel-in-your-category)
-  - [How to change a channel description](#how-to-change-a-channel-description)
-  
-- The name of the channel should match the `#topic-channel` tag from your bot prompt
-  - i.e. if you have a `#topic-channel-1` tag in your bot prompt, you should make a channel called `topic-channel-1`
-- 
-  
+
+### Step 4 - Have topic-specific chats with the bot
+
+Have 3 more directed conversations with the bot in each of the channels you made in Step 2  
+
+1. Open a new `/chat` in each of the channels you made in Step 2
+2. Have a conversation, specifically about that sub-area of your project
+3. If the vibes are off, iteratively edit the relevant sub-prompt components until they are back on again:
+   1. Channel description
+   2. Bot prompt
+   3. Open a new /chat and try again
+
+### Step 5 - Iterate iterate iterate
+
+Feel free to discuss papers, ideas, or anything else that is relevant to your project in any of these channels.
+
+Edit and tweak all your prompts and channel descriptions as you go as your vision for what your project could/should/will be evolves
+
+Focus on what YOU want your project to be! The bot will always have a infinite number of suggestions on hand, so its up to YOU to CHOOSE which ones you want to pursue!
+
+Try to balance between: 
+- Broad level "project wide" conversations about the overall structure of your project
+- Specific, focused conversations about the details of the sub-areas of your project (aka, rabbit holes!)
+- Conversations about specific papers 
+  - Use the [prompt from Exercise 2](https://discord.com/channels/1194766712680222800/1200118663043371088/1200119626491768853) to help you chew up research articles 
+    - DO NOT JUST GIVE THE BOT THE CITATION AND ASK QUESTIONS ABOUT THE FULL papers
+    - IT WILL JUST BE GUESSING BASED ON THE WORDS IN THE Title
+    - COPY-PASTE THE FULL ABSTRACT
+    - THE BOT ONLY SEES WHAT YOU SHOW IT
+
+
 
 ## Completion Criteria (aka "Definition of Done")
-- You have a bot prompt in the `🤖-prompt-settings` channel that matches the [defined schema](#capstone-bot-prompt-schema)
-- You have had a conversation with the bot in the `#general-chat` channel that demonstrates the bot is using the prompt you set up
+### Bot Prompt
+  - You have a bot prompt in the `🤖-prompt-settings` channel that matches the [defined schema](#capstone-bot-prompt-schema)
+### Channels
+  - You have made a channel for each of the `#topic-channel` tags in your bot prompt
+  - You have added a description to each of the channels that hones the discussion to your interests
+### Chats
+  - You have had a high level conversation with the bot about the overall structure of your project in your `#general-chat` channel
+  - You have had 3 more directed conversations with the bot in each of the `#topic-channel` channels you made in Step 2
 
-## Note, Tips, Gotchas
-- Don't overthink it!!
-  - You can and will be changing these prompts a lot, so don't get too hung up on "getting it right" the first time
-  - Just get something do  wn, and then expect that you've be honing and altering these prompts continuously throughout this class
-- This practice of changing the bot's behavior by changing its system prompt is called [Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
-- When generating text in this course, you will always have at least 3 options
-  **-  Option 1 - Use the bot**
-     - e.g. in this case: 
-       - Go back and extract summaries from your previous conversations about the topics you want to do your capstone about (or ignore them and start from scratch if you want - truly doesn't matter).
-       - Extract a short summary of your project. It should fit within a single discord message (so ~2000 characters) and be of the form
-
-  **- Option 2 - Do it yourself, manually**
-    - Just, like, write it all youself
-      - Pro: You get to write exactly the words you want
-      - Cons: You have the words yourself. 
-
-  **- Option 3 (aka the smart move) - Do both**
-    - Use the bot to help you get started, and then edit the text it produces so it ACTUALLY fits what you want it to say
+___
 
 ## Additional Resources 
 - [Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
