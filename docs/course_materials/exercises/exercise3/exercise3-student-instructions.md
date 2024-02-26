@@ -17,7 +17,7 @@
   - Specifically, every message tagged with a `🤖` reaction/emoji is added to the bots' 'System Prompt'
     - The 'System Prompt' is (roughly speaking) a set of instructions that is stuffed into the bot's head to define its behavior
 - In this Exercise you will be adding new system prompts to your category so that you can have conversations with the bot that a pre-configured to your project plans
----
+
 ## Step-by-Step Guide
 
 ### Step 1 - Setting up the Bot Prompt channel (#🤖-prompt-settings)
