@@ -18,7 +18,8 @@ In short, I will ask them to:
 tasks I will ask them to do - 
 
 - pop a /chat in each of the 3 main topic channels
-- use the #papers channel to discuss individual papers and then show them how to extract a summary and then use it to 
+
+- use the #papers channel to discuss individual papers and then show them how to extract a summary and then use it to drive forward a dicsussion in one of the topic channels. 
 -->
 
 # Excercise #4 - Building your tree
