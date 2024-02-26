@@ -99,9 +99,7 @@ Have 3 more directed conversations with the bot in each of the channels you made
 ---
 ### Step 5 - Iterate iterate iterate
 
-You are not being evaluated! You cannot make mistakes that will hurt your grade! Do a bunch, screw it up, tweak, tune, fix, and try again!
-
-The only determiniant of skill is Time On Task 
+You are not being evaluated! You cannot make mistakes that will hurt your grade! Do a bunch, screw it up, tweak, tune, fix, and try again! The only determiniant of skill is Time On Task, so when in doubt, increase `n`!
 
 Feel free to discuss papers, ideas, or anything else that is relevant to your project in any of these channels.
 
