@@ -11,6 +11,7 @@
   
 - When you make a new /chat, the bot is configured to follow certain instructions that guides its behavior/personality
   
+  
 - Every chat in the server will follow the instructions in the [`#bot-instructions🔝`](https://discord.com/channels/1194766712680222800/1194766713267433554) channel
   - Specifically, every message tagged with a `🤖` reaction/emoji is added to the bots' 'System Prompt'
     - The 'System Prompt' is (roughly speaking) a set of instructions that is stuffed into the bot's head to define its behavior
@@ -65,7 +66,7 @@
             -   "In this channel, the student will talk to you about concepts, research, and methods related to oculomotor control and eye movements, with a particular focus on the neural bases of eye movements and tools for measuring eye movements in real-world settings" 
 
 ---
-## NOTES
+## Note, Tips, Gotchas
 - Don't overthink it!!
   - You can and will be changing these prompts a lot, so don't get too hung up on "getting it right" the first time
   - Just get something do  wn, and then expect that you've be honing and altering these prompts continuously throughout this class
@@ -84,6 +85,10 @@
   **- Option 3 (aka the smart move) - Do both**
     - Use the bot to help you get started, and then edit the text it produces so it ACTUALLY fits what you want it to say
 
+# Additional Resources 
+- [Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
+- [SkellyBot Documentation](https://freemocap.github.io/skellybot/skellybot-server-setup-guide.html)
+  - NOTE - these docs are a bit sloppy, disorganized, and incomplete, but hopefully better than nothing if you're willing to dig through them 
 
 ## Example Bot Prompt:
 ```
