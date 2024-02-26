@@ -1,52 +1,33 @@
-<!-- 
+# Exercise #3.5 - Setting up your space (but with better instructions this time )
 
-Prof self-evaluation notes: 
+## Introduction
+[more info needed to complete this section]
 
-This is a decent first pass at an exercise, its a decent start, but its too vague. 
+## Pre-Exercise Preparation
+- Choose your preferred tool for creating a markdown document: VS Code, ObsidianMD, HackMD, or `docx` via Google Docs or MS Word (with conversion to markdown).
+- Ensure you have a Zotero account or a similar tool for managing your citations.
 
-Want to update it to match the perscribed schema and add more details. 
+## Step-by-Step Guide
+1. Create a high-level outline of your capstone project using a markdown file.
+2. Organize your topics and subtopics using a 3x3 structure:
+   - Identify 3 main topics (less than one sentence each).
+   - Define 3 minor topics for each main point (roughly 1 sentence each).
+   - Find and cite 3 sources per minor topic, providing a 1-2 sentence summary for each citation.
+3. Log all citations in your citation management tool (e.g., Zotero).
 
-In short, I will ask them to: 
+## Options and Variations
+[more info needed to complete this section]
 
-- simplify the bot-prompt thing so their whole capstone is outline in a single message in the `bot prompt` section of their category (show an example in the server)
+## Completion Criteria
+- A markdown document with a structured outline of your capstone project.
+- Each main topic has 3 minor topics, each with 3 summarized citations.
+- All citations are logged in your citation management profile.
 
-- specify that they only *need* to make channels for the 3 main topics, but they can make channels for the subtopics if they want
-  - format it so that the #channel-name in th emessage also links to the channel
+## Reflection
+[more info needed to complete this section]
 
-- also set up `general` channel, and `paper-summarize` channel with the paper schema included in it. 
-
-tasks I will ask them to do - 
-
-- pop a /chat in each of the 3 main topic channels
-
-- use the #papers channel to discuss individual papers and then show them how to extract a summary and then use it to drive forward a dicsussion in one of the topic channels. 
--->
-
-# Excercise #4 - Building your tree
-
-- Create a high level outline of your capstone project
-- Make it in Markdown, using:
-  - VS Code - https://code.visualstudio.com/, or 
-  - ObsidianMD -  https:/https://obsidian.md/   
-  - HackMD - https://hackmd.io/   
-  - or `docx` via Google Docs or MS Word, but you have convert it to raw text/markdown on your own
- 
-
-The full assignment will be:
-
-- Use a 3x3 structure to organize your topics and subtopics.
-  - 3 main topics (less than one sentence)
-  - 3 minor topics (per main point, roughly 1 sentence)
-  - 3 citations per minor topic
-    - the citation with a 1-2 sentence summary 
-    - Make sure these citations are logged in your Zotero (or whatever) profile
-
-But we're gonna do it in 3 parts
-
-- First checkpoint is this friday Feb 23rd
-  - Submit as much of it as you got done. The goal is non-zero progress and a rough sketch 
-- Second checkpoint is next friday March 1st
-  - Submit a complete version of this outline
-- Third checkpoint is the following Friday March 8th
-  - Submit a revised/polished version 
+## Additional Resources
+- [VS Code](https://code.visualstudio.com/)
+- [ObsidianMD](https://obsidian.md/)
+- [HackMD](https://hackmd.io/)
 
