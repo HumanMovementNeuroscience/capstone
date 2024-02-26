@@ -71,8 +71,8 @@ Developing your knowledge base and developing your project plan
 - [X] Week 5 - February 5th
 - [x] Week 6 - February 12th
 - [x] Week 7 - February 19th 
-- [x] Week 8 - February 26th  - [Exercise #4 - Building your tree](docs\course_materials\exercises\exercise4\exercise4-Building-your-tree.md) -  part 1 due Friday March 1st
-- [ ] Week 9 - March 5th - ASSIGNMENT4 - Building your tree -  part 2 due
+- [x] Week 8 - February 26th  - [Exercise #3 - Setting up your space] Due Friday March 1st (NOTE - I heavily edited the original definiton of Exercise #3)
+- [ ] Week 9 - March 5th - [Exercise #4 - BUilding your Tree] Due March 8th
 
 #### Execution  
 
