@@ -6,7 +6,7 @@
 - Show examples of the contentful output from previous iterations of this class  
 
 ## Assignment #4
-- [ASSIGNMENT4 - Building your tree](ASSIGNMENT4%20-%20Building%20your%20tree.md)
+- [ASSIGNMENT4 - Building your tree](exercise4-Building-your-tree.md)
 
 
   

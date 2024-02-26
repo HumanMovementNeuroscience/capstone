@@ -1,4 +1,4 @@
-# ASSIGNMENT4 - Building your tree
+# Excercise #4 - Building your tree
 
 - Create a high level outline of your capstone project
 
