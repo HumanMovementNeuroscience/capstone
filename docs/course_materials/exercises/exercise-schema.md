@@ -1,7 +1,7 @@
 <!-- Exercise Schema -->
 
 # Title 
-- Format `Exercise #{number} - Short title`
+Format `Exercise #{number} - Short title`
   
 ## Background
 - Introduce the exercise and its significance within the capstone project.
