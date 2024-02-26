@@ -1,4 +1,5 @@
 # Exercise 3 - Setting Up Your Space
+
 ## Background 
 - I have set each of you up with a category in the server dedicated you and your capstone project!
 - It is named something like `#FF00FF` 
@@ -17,51 +18,42 @@
     - The 'System Prompt' is (roughly speaking) a set of instructions that is stuffed into the bot's head to define its behavior
 - In this Exercise you will be adding new system prompts to your category so that you can have conversations with the bot that a pre-configured to your project plans
 ---
-## Task - set up your space   
+## Step-by-Step Guide
 
 ### Step 1 - Setting up the Bot Prompt channel (#🤖-prompt-settings)
  - Go into the `🤖-prompt-settings`
- - Send a message to that channel that includes:
-   - **A brief description of what you intend to do for your capstone project**
-     - If you aren't sure about your topic yet, just say so in the message!
-       - Like, "I'm not totally sure yet, but it will be realted to [something something something]"
-   - **#topic-tags representing topic areas related to your project**
-     - These should be written with a leading # and `kebab-case` formatting (i.e. lowercase words separated by hypens)
-     - The tag itself should be 2-3 words long
-     - Include: 
-       - 3-5 very general topic tags, e.g. `#neuroscience` or `#genetics` or `#oncology`
-       - 3-5 more specific topic tags e.g. `#perceptuomotor-control` or `#CRISPR` or `#glioblastoma`
-  - Your message should follow roughly this schema:
-```
-# Brief project description (note there is a SPACE between the # and the text, denoting an `H1 heading`)
-{1-2 sentences about what you want to focus on for your capstone project}
+ - Send a message to that channel that follows this schema: 
+ ```
+My Capstone is about:
 
-## Topic tags (note that there are TWO ##, denoting `H2 heading`)
+>  [1-2 sentences about your project]
 
-#general-topic-tag1 (note there is NO SPACE between the # and the text, denoting `#tag`)
-#general-topic-tag2
-#general-topic-tag3
+The major topics I want to discuss are:
 
-#specific-topic-tag1
-#specific-topic-tag2
-#specific-topic-tag3
+#topic-channel-1
+#topic-channel-2
+#topic-channel-3
 ```
 
-#### 👉 IMPORTANT DON'T SKIP THIS STEP 👈
+** ‼️ 👉 IMPORTANT DON'T SKIP THIS STEP 👈‼️ **
 - ONCE YOU HAVE SENT THE MESSAGE TO THE CHANNEL, ADD A 🤖 REACTION SO THE BOT WILL USE THAT MESSAGE IN ITS SYSTEM PROMPT
 
 ---
-### Step 2 - Pick your favorite GENERAL topic tag, and make a channel conifigured for discussion of that topic
+### Step 2 - Create a channel for each major topic
+- The name of the channel should match the `#topic-channel` tag from your bot prompt
+  - i.e. if you have a `#topic-channel-1` tag in your bot prompt, you should make a channel called `topic-channel-1`
+  
 1.  Make a new channel in your category 
       1. Click the + sign next to the Category Name
-      1. Select `# TEXT` channel
-      1. Name the channel after the major topic
-      1. Click the `Edit Channel` button and add some more detail about the topic and how it relates to your project/intests
+      2. Select `# TEXT` channel
+      3. Name the channel after the major topic
+      4. Click the `Edit Channel` button and add some more detail about the topic and how it relates to your project/intests
           - Use the `#general-chat` channel to have conversations outside of any of these topics
           - Use that area to draft and hone text you are using in the different categories
-1.  Change the channel description to provide the bot with context about what you plan to discuss in this channel 
+             
+2.  Change the channel description to provide the bot with context about what you plan to discuss in this channel 
     1.  Click the `Edit Channel` and add some text to the 'Channel Topic' box with additional instructions for the bot
-    1.  The Channel Topic should be written as if you were giving instructions to a person (or person-like-object) about what to expect about  conversations in this channel
+    2.  The Channel Topic should be written as if you were giving instructions to a person (or person-like-object) about what to expect about  conversations in this channel
         1.  i.e. for a channel called `oculomotor-control`, the description might be: 
             -   "In this channel, the student will talk to you about concepts, research, and methods related to oculomotor control and eye movements, with a particular focus on the neural bases of eye movements and tools for measuring eye movements in real-world settings" 
 
