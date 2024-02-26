@@ -22,7 +22,7 @@
 
 ### Step 1 - Setting up the Bot Prompt channel (#🤖-prompt-settings)
  - Go into the `🤖-prompt-settings`
- - Send a message to that channel that follows this schema: 
+ #### Capstone Bot Prompt schema
  ```
 My Capstone is about:
 
@@ -35,27 +35,35 @@ The major topics I want to discuss are:
 #topic-channel-3
 ```
 
-### Example Bot Prompt:
+#### Example Bot Prompt:
 ```
 My Capstone is about:
+
 > I wanna study kangaroo bouncing! Whats's up with their achilles and stuff. What can we learn about ACL injuries from that. 
 
 #biomechanics
 #animals
 #physiology 
-#clinical
-
 ```
 
 
 ** ‼️ 👉 IMPORTANT DON'T SKIP THIS STEP 👈‼️ **
 - ONCE YOU HAVE SENT THE MESSAGE TO THE CHANNEL, ADD A 🤖 REACTION SO THE BOT WILL USE THAT MESSAGE IN ITS SYSTEM PROMPT
 
+### Step 2 - Open a `/chat` in the #general-chat channel of your server
+- Confirm that the bot can see your prompt by asking it to give you an overview of your own capstone project
+  - e.g. "Can you give me a summary of my capstone project?"
+  - Continue the conversation for a few exchanges to see if the bot 'understands' what you meant in your prompt message. 
+  - If you don't like the response, go edit the message, **open a new /chat** and try again
+  - Iterate until the bot is describing your project in a way that aligns with your vision of it
+  
 ### Step 2 - Create a channel for each major topic
 - The name of the channel should match the `#topic-channel` tag from your bot prompt
   - i.e. if you have a `#topic-channel-1` tag in your bot prompt, you should make a channel called `topic-channel-1`
   
 
+## Completion Criteria (aka "Definition of Done")
+- You have a bot prompt in the `🤖-prompt-settings` channel that matches the [defined schema](#capstone-bot-prompt-schema)
 
 ## Note, Tips, Gotchas
 - Don't overthink it!!
