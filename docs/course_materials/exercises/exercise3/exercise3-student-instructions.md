@@ -49,7 +49,7 @@ My Capstone is about:
 
 #### **‼️ 👉 IMPORTANT DON'T SKIP THIS STEP 👈‼️**
 - ONCE YOU HAVE SENT THE MESSAGE TO THE CHANNEL, ADD A 🤖 REACTION SO THE BOT WILL USE THAT MESSAGE IN ITS SYSTEM PROMPT
-
+---
 ### Step 2 - Setting up the channels
 
 #### Step 2a - Make the channels
@@ -61,13 +61,16 @@ My Capstone is about:
 
 #### Step 2b - Add a description to the each of the topic channels to hone the discussion to your interests
  - [How to change a channel description](#how-to-change-a-channel-description)
- - Add a brief description that will help clarify the aspects of the channel's topic/title you want to discuss 
-   - For example, if you named the channel `#neuroscience` but know that you are mostly interested in stuff related to vision and human movement, you might add a description like: 
-   - > `In this channel, we will specifically be discussing the parts of neuroscience that are most related to vision and human movement`
+1.  Change the channel description to provide the bot with context about what you plan to discuss in this channel 
+    1.  The Channel Topic should be written as if you were giving instructions to a person (or person-like-object) about what to expect about  conversations in this channel
+        1.  i.e. for a channel called `oculomotor-control`, the description might be: 
+            -   "In this channel, the student will talk to you about concepts, research, and methods related to oculomotor control and eye movements, with a particular focus on the neural bases of eye movements and tools for measuring eye movements in real-world settings" 
      - NOTE: 
        - The bot will already be able to see the channel name
        - Less is more! This description will be automatically added to the prompt of each /chat that happens in that channel, so you don't want to say TOO much
          - Better to be terse with it, and then add details in the /chat itself
+
+---
 
 ### Step 3 - High level chat with the bot
 
@@ -80,6 +83,7 @@ Have a high level convestation wtih the bot about the overall structure of your 
   - If you don't like the response, go edit the message, **open a new /chat** and try again
   - Iterate until the bot is describing your project in a way that aligns with your vision of it
 
+---
 
 ### Step 4 - Have topic-specific chats with the bot
 
@@ -92,7 +96,7 @@ Have 3 more directed conversations with the bot in each of the channels you made
    2. Bot prompt
    3. Open a new /chat and try again
 
-
+---
 ### Step 5 - Iterate iterate iterate
 
 Feel free to discuss papers, ideas, or anything else that is relevant to your project in any of these channels.
@@ -139,9 +143,9 @@ ___
       - Use that area to draft and hone text you are using in the different categories
 
 ### How to change a channel description             
-1.  Change the channel description to provide the bot with context about what you plan to discuss in this channel 
-    1.  Click the `Edit Channel` and add some text to the 'Channel Topic' box with additional instructions for the bot
-    2.  The Channel Topic should be written as if you were giving instructions to a person (or person-like-object) about what to expect about  conversations in this channel
-        1.  i.e. for a channel called `oculomotor-control`, the description might be: 
-            -   "In this channel, the student will talk to you about concepts, research, and methods related to oculomotor control and eye movements, with a particular focus on the neural bases of eye movements and tools for measuring eye movements in real-world settings" 
+  1.  Click the `Edit Channel` and add some text to the 'Channel Topic' box with additional instructions for the bot
+      1.  Alternatively, right click the channel name and select `Edit Channel` 
+  1. Enter text into the 'Channel Topic' box
+  
+
 
