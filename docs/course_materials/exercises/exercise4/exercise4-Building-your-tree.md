@@ -6,7 +6,15 @@ This is a decent first pass at an exercise, its a decent start, but its too vagu
 
 Want to update it to match the perscribed schema and add more details. 
 
-In short 
+In short, I will ask them to: 
+
+- simplify the bot-prompt thing so their whole capstone is outline in a single message in the `bot prompt` section of their category (show an example in the server)
+
+- specify that they only *need* to make channels for the 3 main topics, but they can make channels for the subtopics if they want
+  - format it so that the #channel-name in th emessage also links to the channel
+
+- also set up `general` channel, and `paper-summarize` channel with the paper schema included in it. 
+
 -->
 
 # Excercise #4 - Building your tree
