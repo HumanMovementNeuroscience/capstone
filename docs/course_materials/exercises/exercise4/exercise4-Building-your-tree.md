@@ -1,6 +1,6 @@
 <!-- 
 
-Prof self-evaluation
+Prof self-evaluation notes: 
 
 This is a decent first pass at an exercise, its a decent start, but its too vague. 
 
