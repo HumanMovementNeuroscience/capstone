@@ -5,8 +5,8 @@
 - Make it in Markdown, using:
   - VS Code - https://code.visualstudio.com/, or 
   - ObsidianMD -  https:/https://obsidian.md/   
-  - HackMD - https://hackmd.io
-  - (or some docx nonsense, but you have convert it to raw text/markdown on your own)
+  - HackMD - https://hackmd.io/   
+  - or `docx` via Google Docs or MS Word, but you have convert it to raw text/markdown on your own
  
 
 The full assignment will be:
