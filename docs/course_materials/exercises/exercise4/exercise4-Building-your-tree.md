@@ -27,5 +27,3 @@ But we're gonna do it in 3 parts
 - Third checkpoint is the following Friday March 8th
   - Submit a revised/polished version 
 
-
-
