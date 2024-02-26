@@ -15,6 +15,10 @@ In short, I will ask them to:
 
 - also set up `general` channel, and `paper-summarize` channel with the paper schema included in it. 
 
+tasks I will ask them to do - 
+
+- pop a /chat in each of the 3 main topic channels
+- use the #papers channel to discuss individual papers and then show them how to extract a summary and then use it to 
 -->
 
 # Excercise #4 - Building your tree
