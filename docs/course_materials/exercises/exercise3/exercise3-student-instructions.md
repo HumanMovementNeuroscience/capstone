@@ -17,7 +17,7 @@
   - Specifically, every message tagged with a `🤖` reaction/emoji is added to the bots' 'System Prompt'
     - The 'System Prompt' is (roughly speaking) a set of instructions that is stuffed into the bot's head to define its behavior
 - In this Exercise you will be adding new system prompts to your category so that you can have conversations with the bot that a pre-configured to your project plans
-
+___
 ## Step-by-Step Guide
 
 ### Step 1 - Setting up the Bot Prompt channel (#🤖-prompt-settings)
@@ -59,7 +59,6 @@ My Capstone is about:
   - NOTE: You can only make channels in YOUR category
     - i.e. if your Student ID / assigned role is `#FF00FF`, you can only make channels in the `#FF00FF` category
 
-
 #### Step 2b - Add a description to the each of the topic channels to hone the discussion to your interests
  - [How to change a channel description](#how-to-change-a-channel-description)
  - Add a brief description that will help clarify the aspects of the channel's topic/title you want to discuss 
@@ -70,8 +69,6 @@ My Capstone is about:
        - Less is more! This description will be automatically added to the prompt of each /chat that happens in that channel, so you don't want to say TOO much
          - Better to be terse with it, and then add details in the /chat itself
 
-
-  
 ### Step 3 - High level chat with the bot
 
 Have a high level convestation wtih the bot about the overall structure of your project
@@ -83,6 +80,7 @@ Have a high level convestation wtih the bot about the overall structure of your 
   - If you don't like the response, go edit the message, **open a new /chat** and try again
   - Iterate until the bot is describing your project in a way that aligns with your vision of it
 
+
 ### Step 4 - Have topic-specific chats with the bot
 
 Have 3 more directed conversations with the bot in each of the channels you made in Step 2  
@@ -93,6 +91,7 @@ Have 3 more directed conversations with the bot in each of the channels you made
    1. Channel description
    2. Bot prompt
    3. Open a new /chat and try again
+
 
 ### Step 5 - Iterate iterate iterate
 
@@ -112,8 +111,7 @@ Try to balance between:
     - COPY-PASTE THE FULL ABSTRACT
     - THE BOT ONLY SEES WHAT YOU SHOW IT
 
-
-
+___
 ## Completion Criteria (aka "Definition of Done")
 ### Bot Prompt
   - You have a bot prompt in the `🤖-prompt-settings` channel that matches the [defined schema](#capstone-bot-prompt-schema)
@@ -125,7 +123,6 @@ Try to balance between:
   - You have had 3 more directed conversations with the bot in each of the `#topic-channel` channels you made in Step 2
 
 ___
-
 ## Additional Resources 
 - [Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
 - [SkellyBot Documentation](https://freemocap.github.io/skellybot/skellybot-server-setup-guide.html)
