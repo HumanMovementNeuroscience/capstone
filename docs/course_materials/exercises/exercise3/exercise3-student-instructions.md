@@ -34,6 +34,7 @@ The major topics I want to discuss are:
 #topic-channel-2
 #topic-channel-3
 ```
+
 ### Example Bot Prompt:
 ```
 My Capstone is about:
@@ -50,7 +51,6 @@ My Capstone is about:
 ** ‼️ 👉 IMPORTANT DON'T SKIP THIS STEP 👈‼️ **
 - ONCE YOU HAVE SENT THE MESSAGE TO THE CHANNEL, ADD A 🤖 REACTION SO THE BOT WILL USE THAT MESSAGE IN ITS SYSTEM PROMPT
 
----
 ### Step 2 - Create a channel for each major topic
 - The name of the channel should match the `#topic-channel` tag from your bot prompt
   - i.e. if you have a `#topic-channel-1` tag in your bot prompt, you should make a channel called `topic-channel-1`

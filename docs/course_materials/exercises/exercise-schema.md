@@ -9,9 +9,6 @@
 ## Step-by-Step Guide
 - Provide clear, sequential steps for completing the exercise.
 
-## Options and Variations
-- Offer alternative approaches or additional challenges.
-
 ## Completion Criteria
 - Outline clear indicators for when the exercise is considered complete.
 
