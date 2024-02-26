@@ -1,4 +1,4 @@
-# Exercise #3.5 - Setting up your space (but with better instructions this time )
+# Exercise #4 - Building Your Tree
 
 ## Introduction
 [more info needed to complete this section]
