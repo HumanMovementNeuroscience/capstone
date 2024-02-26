@@ -50,7 +50,7 @@ My Capstone is about:
 ** ‼️ 👉 IMPORTANT DON'T SKIP THIS STEP 👈‼️ **
 - ONCE YOU HAVE SENT THE MESSAGE TO THE CHANNEL, ADD A 🤖 REACTION SO THE BOT WILL USE THAT MESSAGE IN ITS SYSTEM PROMPT
 
-### Step 2 - Open a `/chat` in the #general-chat channel of your server
+### Step 2 - Open a `/chat` in the `#general-chat` channel of your server
 - Confirm that the bot can see your prompt by asking it to give you an overview of your own capstone project
   - e.g. "Can you give me a summary of my capstone project?"
   - Continue the conversation for a few exchanges to see if the bot 'understands' what you meant in your prompt message. 
