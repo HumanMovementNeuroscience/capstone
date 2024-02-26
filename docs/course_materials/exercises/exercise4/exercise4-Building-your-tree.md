@@ -1,7 +1,17 @@
+<!-- 
+
+Prof self-evaluation
+
+This is a decent first pass at an exercise, its a decent start, but its too vague. 
+
+Want to update it to match the perscribed schema and add more details. 
+
+In short 
+-->
+
 # Excercise #4 - Building your tree
 
 - Create a high level outline of your capstone project
-
 - Make it in Markdown, using:
   - VS Code - https://code.visualstudio.com/, or 
   - ObsidianMD -  https:/https://obsidian.md/   
