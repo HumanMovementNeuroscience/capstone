@@ -131,6 +131,7 @@ ___
 - [SkellyBot Documentation](https://freemocap.github.io/skellybot/skellybot-server-setup-guide.html)
   - NOTE - these docs are a bit sloppy, disorganized, and incomplete, but hopefully better than nothing if you're willing to dig through them 
 
+___
 ## Technical instructions
 ### How to to make a new channel in your category 
   1. Click the + sign next to the Category Name

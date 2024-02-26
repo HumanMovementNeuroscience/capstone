@@ -15,6 +15,9 @@ Format `Exercise #{number} - Short title`
 ## Additional Resources
 - Include any relevant supplementary materials or references.
 
+## Technical instructions
+- Include any relevant technical instructions for completing the exercise.
+
 <!-- End Exercise Schema -->
 
 
