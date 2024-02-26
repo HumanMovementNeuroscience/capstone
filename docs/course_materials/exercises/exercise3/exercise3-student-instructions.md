@@ -64,6 +64,7 @@ My Capstone is about:
 
 ## Completion Criteria (aka "Definition of Done")
 - You have a bot prompt in the `🤖-prompt-settings` channel that matches the [defined schema](#capstone-bot-prompt-schema)
+- You have had a conversation with the bot in the `#general-chat` channel that demonstrates the bot is using the prompt you set up
 
 ## Note, Tips, Gotchas
 - Don't overthink it!!
