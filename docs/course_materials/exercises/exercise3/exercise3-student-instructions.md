@@ -1,12 +1,13 @@
-# Exercise 3 - Your Space
+# Exercise 3 - Setting Up Your Space
 ## Background 
-- You now have a category in the server dedicated you and your capstone project!
+- I have set each of you up with a category in the server dedicated you and your capstone project!
 - It is named something like `#FF00FF` 
   - i.e. the unique hex code you made when you signed up
+  - I will refer to this as your "student ID"
 
 - You have full control within your category to make channels and configure them as you like!
-   - NOTE - If I have configured this correctly, 
-      - You should have full control within your category, but OTHER students will only have 'view' access, not 'write' access
+  - I have also created "Role" for each student ID, which is used to control write access to the category
+    - You should have full control within your category, but OTHER students will only have 'view' access, not 'write' access
   
 - When you make a new /chat, the bot is configured to follow certain instructions that guides its behavior/personality
   
