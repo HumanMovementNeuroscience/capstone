@@ -1,7 +1,7 @@
 # Knowledge tree outline assignment
 
 ## Assignment Explanation
-- Develop a 3x3 topic tree
+- Develop a 3^3 topic tree
 - 27 total citations required
 
 ## Tool Tutorials
