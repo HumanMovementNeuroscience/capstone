@@ -6,11 +6,13 @@ In this assignment, you will construct a 'Knowledge Tree' to organize and struct
 
 ## Pre-Exercise Preparation
 - **Select a Markdown Editor**: Choose from VS Code, ObsidianMD, HackMD, or use `docx` via Google Docs or MS Word (later converting to markdown).
+  - if you need assistance using or choosing a tool to use for this assignment, please ask for help in the appropriate channel in the `Tools` category.
 - **Set Up Citation Management**: Make sure you have a Zotero account or an equivalent tool ready for managing your citations.
+  - if you need help with this, please ask for help in the `#zotero` channel in the `Tools` category.
 
 ## Step-by-Step Guide
 1. **Create an Outline**: Draft a high-level outline of your capstone project in the markdown file.
-2. **Structure Your Knowledge Tree**: Organize your outline using a 3x3 approach:
+2. **Structure Your Knowledge Tree**: Organize your outline using a 3^3 approach:
    - **3 Main Topics**: Summarize each in less than one sentence.
    - **3 Subtopics Each**: Define subtopics for each main point in roughly one sentence.
    - **3 Citations Each**: Find and summarize 3 sources per subtopic, each with a 1-2 sentence summary.
@@ -23,6 +25,7 @@ In this assignment, you will construct a 'Knowledge Tree' to organize and struct
 
 ## Reflection and Philosophical Underpinnings
 - Reflect on the process of creating your knowledge tree and how it represents the 'web of belief' that underpins your research.
+  - If you want to know more, check out [W.V.O. Quine's "Web of Belief"](https://en.wikipedia.org/wiki/Web_of_belief). (and/or ask the bot about)
 - Consider how this structure can potentially evolve as your understanding deepens and your project progresses.
 
 ## Completion Criteria
