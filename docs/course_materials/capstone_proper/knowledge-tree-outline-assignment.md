@@ -1,18 +1,38 @@
-# Knowledge tree outline assignment
+# Capstone Course: Knowledge Tree Outline Assignment
 
-## Assignment Explanation
-- Develop a 3^3 topic tree
-- 27 total citations required
+## Introduction
 
-## Tool Tutorials
-### Citation Management
-- Zotero: 
-  - downloading,
-  - join course group,
-  -  adding citations,
-  -   exporting to `.bib` file
-  -   
-### Document Generation
-- Markdown: using VS Code and Obsidian
-- Extensions: enabling MarkMap
-- Conversion: Google Docs to Markdown
+In this assignment, you will construct a 'Knowledge Tree' to organize and structure the various components of your capstone project. This exercise will serve as a foundation for your research, helping you to categorize your thoughts and sources in a clear, hierarchical manner. It's designed to not only aid in your understanding of the topic but also to facilitate effective communication of your findings.
+
+## Pre-Exercise Preparation
+- **Select a Markdown Editor**: Choose from VS Code, ObsidianMD, HackMD, or use `docx` via Google Docs or MS Word (later converting to markdown).
+- **Set Up Citation Management**: Make sure you have a Zotero account or an equivalent tool ready for managing your citations.
+
+## Step-by-Step Guide
+1. **Create an Outline**: Draft a high-level outline of your capstone project in the markdown file.
+2. **Structure Your Knowledge Tree**: Organize your outline using a 3x3 approach:
+   - **3 Main Topics**: Summarize each in less than one sentence.
+   - **3 Subtopics Each**: Define subtopics for each main point in roughly one sentence.
+   - **3 Citations Each**: Find and summarize 3 sources per subtopic, each with a 1-2 sentence summary.
+3. **Citation Logging**: Record all citations in your chosen citation management tool.
+
+## Assignment Goals
+- A markdown document with a structured 3^3 topic tree of your capstone project.
+- Each main topic should have 3 subtopics, and each subtopic should have 3 citations with summaries.
+- All citations should be logged and organized within your citation management tool.
+
+## Reflection and Philosophical Underpinnings
+- Reflect on the process of creating your knowledge tree and how it represents the 'web of belief' that underpins your research.
+- Consider how this structure can potentially evolve as your understanding deepens and your project progresses.
+
+## Completion Criteria
+- Submission of a markdown document with your complete Knowledge Tree outline.
+- Adherence to the 3x3 structure with properly summarized and cited sources.
+- Evidence of an organized citation management profile.
+
+## Additional Resources
+- [VS Code](https://code.visualstudio.com/)
+- [ObsidianMD](https://obsidian.md/)
+- [HackMD](https://hackmd.io/)
+
+By completing this assignment, you will develop a robust framework for your capstone project, equipping you with the organizational tools to explore your topic in depth and with clarity.
