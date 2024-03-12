@@ -28,10 +28,11 @@ In this assignment, you will construct a 'Knowledge Tree' to organize and struct
   - If you want to know more, check out [W.V.O. Quine's "Web of Belief"](https://en.wikipedia.org/wiki/Web_of_belief) (and/or ask the bot about), esp Hilary Putnam's take on it.
 - Consider how this structure can potentially evolve as your understanding deepens and your project progresses.
 
-## Completion Criteria
-- Submission of a markdown document with your complete Knowledge Tree outline.
-- Adherence to the 3x3 structure with properly summarized and cited sources.
-- Evidence of an organized citation management profile.
+## Definition of "Done"
+You will know when you are done with this assignment when you have completed the following:
+- A markdown document with a structured 3^3 topic tree of your capstone project.
+  - Each main topic should have 3 subtopics, and each subtopic should have 3 citations with summaries.
+- You have (at least) 27 citations logged and organized within your citation management tool.
 
 ## Additional Resources
 - [VS Code](https://code.visualstudio.com/)
