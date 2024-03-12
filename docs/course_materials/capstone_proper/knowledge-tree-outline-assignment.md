@@ -6,6 +6,10 @@ In this assignment, you will construct a 'Knowledge Tree' to organize and struct
 
 ## Pre-Exercise Preparation
 - **Select a Markdown Editor**: Choose from VS Code, ObsidianMD, HackMD, or use `docx` via Google Docs or MS Word (later converting to markdown).
+  - enable a plugin/extension to let you view the outline as a `tree` or `mindmap`
+    - In VS Code, i like the `Markmap` extension
+    - In ObsidianMD, the `Mindmap` plugin is great
+    - If you have questions - Ask the Machine
   - if you need assistance using or choosing a tool to use for this assignment, please ask for help in the appropriate channel in the `Tools` category.
 - **Set Up Citation Management**: Make sure you have a Zotero account or an equivalent tool ready for managing your citations.
   - if you need help with this, please ask for help in the `#zotero` channel in the `Tools` category.
@@ -33,6 +37,8 @@ You will know when you are done with this assignment when you have completed the
 - A markdown document with a structured 3^3 topic tree of your capstone project.
   - Each main topic should have 3 subtopics, and each subtopic should have 3 citations with summaries.
 - You have (at least) 27 citations logged and organized within your citation management tool.
+## How to Submit Your Work!
+- Plop the `.md` file in your categories' `#general-chat` channel, tag it with a 🌱 reaction and tag me (the professor) by typing @Jon in a message
 
 ## Additional Resources
 - [VS Code](https://code.visualstudio.com/)
