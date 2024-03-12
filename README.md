@@ -71,14 +71,16 @@ Developing your knowledge base and developing your project plan
 - [X] Week 5 - February 5th
 - [x] Week 6 - February 12th
 - [x] Week 7 - February 19th 
-- [x] Week 8 - February 26th  - [Exercise #3 - Setting up your space] Due Friday March 1st (NOTE - I heavily edited the original definiton of Exercise #3)
-- [ ] Week 9 - March 5th - [Exercise #4 - BUilding your Tree] Due March 8th
+- [x] Week 8 - February 26th  
+
+#### Break
+- [x] Week 9 - March 5th - SPRING BREAK
 
 #### Execution  
 
 Generating the actual capstone project document
 
-- [ ] Week 10 - March 12th
+- [ ] Week 10 - March 12th - Complete [Knowledge Tree Outline]()
 - [ ] Week 11 - March 19th
 - [ ] Week 12 - March 26th
 - [ ] Week 13 - April 2nd
