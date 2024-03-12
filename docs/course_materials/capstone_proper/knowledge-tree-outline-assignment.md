@@ -25,7 +25,7 @@ In this assignment, you will construct a 'Knowledge Tree' to organize and struct
 
 ## Reflection and Philosophical Underpinnings
 - Reflect on the process of creating your knowledge tree and how it represents the 'web of belief' that underpins your research.
-  - If you want to know more, check out [W.V.O. Quine's "Web of Belief"](https://en.wikipedia.org/wiki/Web_of_belief). (and/or ask the bot about)
+  - If you want to know more, check out [W.V.O. Quine's "Web of Belief"](https://en.wikipedia.org/wiki/Web_of_belief) (and/or ask the bot about), esp Hilary Putnam's take on it.
 - Consider how this structure can potentially evolve as your understanding deepens and your project progresses.
 
 ## Completion Criteria
