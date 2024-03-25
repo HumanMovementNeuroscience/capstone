@@ -2,9 +2,14 @@
 # Capstone Proposal Assignment - NSF Graduate Research Fellowship Proposal
 
 ## Introduction
-The proposal portion of capstone project, you will write a proposal in the style of the NSF Graduate Research Fellowship Program (GRFP). This task is designed not only to integrate and apply your knowledge but also to prepare those of you who are considering graduate school with a solid foundation for an actual GRFP proposal. 
+The proposal portion of capstone project, you will write a proposal in the style of the NSF Graduate Research Fellowship Program (GRFP). 
+
+
 
 ## Objectives
+- Offer an opportunity to examine and reflect upon your academic and professional experiences, and consider a (real or hypothetical) future where you are aloud to pursue those interests with support.
+  - If you are intending to go to graduate school, this assignment may serve as a draft for an actual GRFP application.
+  - If you are NOT intending to go to graduate school, feel free to adapt the vibe assignment to your actual (or hypothetical) future plans.
 - Demonstrate your ability to design a research project with clear objectives.
 - Showcase your understanding of both the Intellectual Merit and Broader Impacts of your proposed research.
 - Prepare a document that can potentially serve as a draft for a future GRFP application.
