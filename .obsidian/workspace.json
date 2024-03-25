@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSF GRFP.md",
+                "file": "docs/course_materials/capstone_proper/capstone-project-description.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSF GRFP.md",
+                "file": "docs/course_materials/capstone_proper/capstone-project-description.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSF GRFP.md",
+                "file": "docs/course_materials/capstone_proper/capstone-project-description.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NSF GRFP.md"
+                "file": "docs/course_materials/capstone_proper/capstone-project-description.md"
               }
             }
           },
@@ -163,8 +163,9 @@
   },
   "active": "efdc0b034be7cd10",
   "lastOpenFiles": [
-    "docs/course_materials/capstone_proper/capstone-project-description.md",
     "NSF GRFP.md",
+    "docs/course_materials/capstone_proper/NSF_GRFP.md",
+    "docs/course_materials/capstone_proper/capstone-project-description.md",
     "scratch/Untitled.md",
     "README.md",
     "Recording 20240321102724.webm",
