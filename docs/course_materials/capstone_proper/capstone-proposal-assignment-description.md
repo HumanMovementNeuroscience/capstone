@@ -39,5 +39,3 @@ Your proposal will include the following components, adhering to the guidelines 
 - Ensure all components are clearly labeled and adhere to the page limits.
 - Further details on submission deadlines and presentation requirements will follow.
 
-## Evaluation
-Your proposal will be evaluated based on the clarity of your research plan, the depth of your knowledge tree, and the effectiveness of your presentation. The evaluation will also consider how well you address the Intellectual Merit and Broader Impacts criteria.
