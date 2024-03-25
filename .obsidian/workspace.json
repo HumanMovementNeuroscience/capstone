@@ -163,6 +163,21 @@
   },
   "active": "efdc0b034be7cd10",
   "lastOpenFiles": [
+    "capstone-nuxt-site/tsconfig.json",
+    "capstone-nuxt-site/public/favicon.ico",
+    "capstone-nuxt-site/public/cover.jpg",
+    "capstone-nuxt-site/public",
+    "capstone-nuxt-site/package.json",
+    "capstone-nuxt-site/nuxt.config.ts",
+    "capstone-nuxt-site/content/2.about.md",
+    "capstone-nuxt-site/content/1.index.md",
+    "capstone-nuxt-site/content",
+    "capstone-nuxt-site/components/content/MarkdownBlock.vue",
+    "capstone-nuxt-site/components/content/ButtonLink.vue",
+    "capstone-nuxt-site/components/content",
+    "capstone-nuxt-site/components",
+    "capstone-nuxt-site/app.config.ts",
+    "capstone-nuxt-site/README.md",
     "docs/course_materials/capstone_proper/capstone-proposal-assignment-description.md",
     "docs/course_materials/capstone_proper/NSF-GRFP-document.md",
     "docs/course_materials/capstone_proper/NSF-GRFP-official-materials.md",
@@ -172,7 +187,6 @@
     "docs/course_materials/capstone_proper/capstone-project-description.md",
     "scratch/Untitled.md",
     "README.md",
-    "Recording 20240321102724.webm",
     "202403211027.md"
   ]
 }
