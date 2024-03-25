@@ -24,6 +24,7 @@ Your proposal will include the following components, adhering to the guidelines 
 ### Graduate Research Plan Statement
 - Max Length: 2 pages
 
+Detailed guidelines for each section can be found on the [NSF GRFP Application Page](https://nsfgrfp.org/applicants/statements/)
 ___
 
 
@@ -31,5 +32,6 @@ ___
 
 ## Resources
 - [NSF GRFP Official Page](https://www.nsfgrfp.org/)
+- [NSF GRFP Application Page](https://nsfgrfp.org/applicants/statements/)
 - [Merit Review Criteria](https://nsfgrfp.org/applicants/merit-review-criteria/)
 
