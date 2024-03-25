@@ -80,8 +80,8 @@ Developing your knowledge base and developing your project plan
 
 Generating the actual capstone project document
 
-- [ ] Week 10 - March 12th - Complete [Knowledge Tree Outline]()
-- [ ] Week 11 - March 19th
+- [x] Week 10 - March 12th - Complete [Knowledge Tree Outline]()
+- [x] Week 11 - March 19th
 - [ ] Week 12 - March 26th
 - [ ] Week 13 - April 2nd
 
