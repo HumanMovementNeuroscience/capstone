@@ -1,5 +1,5 @@
 
-# Capstone Proposal Assignment - NSF Graduate Research Fellowship Proposal
+# NSF Graduate Research Fellowship Proposal
 
 ## Introduction
 The proposal portion of capstone project, you will write a proposal in the style of the [NSF Graduate Research Fellowship Program (GRFP)](https://www.nsfgrfp.org/). 
