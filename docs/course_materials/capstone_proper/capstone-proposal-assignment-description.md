@@ -2,7 +2,7 @@
 # Capstone Proposal Assignment - NSF Graduate Research Fellowship Proposal
 
 ## Introduction
-The proposal portion of capstone project, you are tasked with drafting a proposal in the style of the NSF Graduate Research Fellowship Program (GRFP). This task is designed not only to integrate and apply your knowledge but also to prepare those of you who are considering graduate school with a solid foundation for an actual GRFP proposal. 
+The proposal portion of capstone project, you will write a proposal in the style of the NSF Graduate Research Fellowship Program (GRFP). This task is designed not only to integrate and apply your knowledge but also to prepare those of you who are considering graduate school with a solid foundation for an actual GRFP proposal. 
 
 ## Objectives
 - Demonstrate your ability to design a research project with clear objectives.
