@@ -32,8 +32,28 @@ ___
 
 
 
-## Resources
+## Key Resources
 - [NSF GRFP Official Page](https://www.nsfgrfp.org/)
 - [NSF GRFP Application Page](https://nsfgrfp.org/applicants/statements/)
 - [Merit Review Criteria](https://nsfgrfp.org/applicants/merit-review-criteria/)
+
+## Additional Resources (in no particular order)
+- [**GradCafe NSF GRFP Forums:**](https://forum.thegradcafe.com/forum/69-nsf-graduate-research-fellowship/)
+   A forum where applicants discuss the NSF GRFP, share experiences, and sometimes post their successful essays.
+ - [GRFP Essay Insights from University of Missouri](https://gradschool.missouri.edu/nsf-graduate-research-fellowship-program-resources/)
+   This resource offers detailed advice on writing essays for the GRFP, including examples of successful essays.
+ - [**UC Berkeley GRFP Guide:**](https://grad.berkeley.edu/news/egrad/nsf-graduate-research-fellowship/)
+   UC Berkeley provides a guide for their students but it's publicly available and provides helpful tips for GRFP applicants.
+
+- [**MIT NSF GRFP Resources:**](https://oge.mit.edu/development/nsf/)
+   MIT's Office of Graduate Education provides resources including advice on the application process and links to successful proposals.
+
+- [**Alex Lang's NSF Fellowship Website:**](http://www.alexhunterlang.com/nsf-fellowship)
+   A former NSF GRFP reviewer provides insights into the process and shares a collection of successful GRFP proposals.
+
+
+
+- [**Mallory Ladd's "NSF GRFP Advice"**:](https://malloryladd.com/nsf-grfp-advice/)
+   A past NSF GRFP winner provides a detailed guide and advice for applicants, including a successful proposal example.
+
 
