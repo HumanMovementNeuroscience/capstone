@@ -34,8 +34,3 @@ Your proposal will include the following components, adhering to the guidelines 
 - [NSF GRFP Official Page](https://www.nsfgrfp.org/)
 - [Merit Review Criteria](https://nsfgrfp.org/applicants/merit-review-criteria/)
 
-## Submission Details
-- Submit your proposal as a single PDF document.
-- Ensure all components are clearly labeled and adhere to the page limits.
-- Further details on submission deadlines and presentation requirements will follow.
-
