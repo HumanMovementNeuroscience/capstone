@@ -7,9 +7,11 @@ The proposal portion of capstone project, you will write a proposal in the style
 
 ## Objectives
 - This assignment offers an opportunity to examine and reflect upon your experiences and interests, and speculate on a hypothetical future where you are able to pursue those interests with support.
+
+## Tips
   - If you are intending to go to graduate school, this assignment may serve as a draft for an actual GRFP application.
   - If you are NOT intending to go to graduate school, feel free to adapt the vibe assignment to your actual, imagined, or hypothetical future plans.
-  - Assume that:
+  - As you speculate on your hypothetical future, imagine that: 
     - You are being paid enough to live a comfortable life
     - You have access to all the resources, equipment, etc you need to complete your research
     - You are in enviorment where you have support from a mentor/advisor who is an expert in you area of pursuit, as well as access to other experts in related areas
