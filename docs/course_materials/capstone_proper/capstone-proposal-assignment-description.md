@@ -7,7 +7,7 @@ The proposal portion of capstone project, you will write a proposal in the style
 
 
 ## Objectives
-- Offer an opportunity to examine and reflect upon your academic and professional experiences, and consider a (real or hypothetical) future where you are aloud to pursue those interests with support.
+- This assignment offers an opportunity to examine and reflect upon your experiences and interests, and speculate on a hypothetical future where you are able to pursue those interests with support.
   - If you are intending to go to graduate school, this assignment may serve as a draft for an actual GRFP application.
   - If you are NOT intending to go to graduate school, feel free to adapt the vibe assignment to your actual, imagined, or hypothetical future plans.
 
