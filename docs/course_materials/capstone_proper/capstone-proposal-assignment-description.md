@@ -16,26 +16,18 @@ The proposal portion of capstone project, you will write a proposal in the style
 
 ___
 
-## Assignment Components
+## Document Guidelines
 Your proposal will include the following components, adhering to the guidelines set by the NSF:
 
 ### Personal, Relevant Background and Future Goals Statement
 - Max Length: 3 pages
-- Must address the NSF merit review criteria:
-  - **Intellectual Merit**: Potential to advance knowledge.
-  - **Broader Impacts**: Potential to benefit society and contribute to desired societal outcomes.
-- Include headings for both Intellectual Merit and Broader Impacts.
-
 ### Graduate Research Plan Statement
 - Max Length: 2 pages
-- Must also address the NSF merit review criteria:
-  - **Intellectual Merit**
-  - **Broader Impacts**
-- Include headings for both Intellectual Merit and Broader Impacts.
 
-## Additional Components
-- A knowledge tree that outlines how your coursework and experiences have contributed to your ability to formulate this research proposal. This does not have to directly mirror your NSF proposal content.
-- A group presentation component, details of which will be provided later.
+___
+
+
+
 
 ## Resources
 - [NSF GRFP Official Page](https://www.nsfgrfp.org/)
