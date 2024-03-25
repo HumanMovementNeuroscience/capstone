@@ -9,10 +9,8 @@ The proposal portion of capstone project, you will write a proposal in the style
 ## Objectives
 - Offer an opportunity to examine and reflect upon your academic and professional experiences, and consider a (real or hypothetical) future where you are aloud to pursue those interests with support.
   - If you are intending to go to graduate school, this assignment may serve as a draft for an actual GRFP application.
-  - If you are NOT intending to go to graduate school, feel free to adapt the vibe assignment to your actual (or hypothetical) future plans.
-- Demonstrate your ability to design a research project with clear objectives.
-- Showcase your understanding of both the Intellectual Merit and Broader Impacts of your proposed research.
-- Prepare a document that can potentially serve as a draft for a future GRFP application.
+  - If you are NOT intending to go to graduate school, feel free to adapt the vibe assignment to your actual, imagined, or hypothetical future plans.
+
 
 ## Assignment Components
 Your proposal will include the following components, adhering to the guidelines set by the NSF:
