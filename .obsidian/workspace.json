@@ -163,6 +163,7 @@
   },
   "active": "efdc0b034be7cd10",
   "lastOpenFiles": [
+    "docs/course_materials/capstone_proper/NSF-GRFP-proposal-assignment.md",
     "capstone-nuxt-site/node_modules/@esbuild/darwin-arm64",
     "capstone-nuxt-site/node_modules/@esbuild/android-x64",
     "capstone-nuxt-site/node_modules/@esbuild/android-arm",
@@ -175,7 +176,6 @@
     "capstone-nuxt-site/node_modules/@babel/standalone/test/babel.js",
     "capstone-nuxt-site/node_modules/@babel/standalone/test",
     "capstone-nuxt-site/node_modules/@babel/standalone/package.json",
-    "capstone-nuxt-site/node_modules/shiki/LICENSE",
     "capstone-nuxt-site/node_modules/lodash/release.md",
     "capstone-nuxt-site/node_modules/lodash/README.md",
     "capstone-nuxt-site/node_modules/caniuse-lite/README.md",
