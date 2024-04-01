@@ -1,4 +1,4 @@
-# [CAPSTONE PROPER - Pt 1] - Knowledge Tree
+# Assignment 3.5 - Knowledge Tree Outline Assignment
 
 ## Introduction
 
