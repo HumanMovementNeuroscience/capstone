@@ -1,5 +1,5 @@
 
-# DEPRECATED! IF YOU HAVE NOT DONE THIS ASSIGNMENT, SKIP IT AND GO TO ->  [[exercise3.5-knowledge-tree-outline-assignment]]
+# DEPRECATED! IF YOU HAVE NOT DONE THIS ASSIGNMENT: SKIP IT AND GO TO ->  [[exercise3.5-knowledge-tree-outline-assignment]]
 
 # Video 2 - Building your workspace 
 
