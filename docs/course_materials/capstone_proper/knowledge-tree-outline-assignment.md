@@ -1,4 +1,4 @@
-# Capstone Course: Knowledge Tree Outline Assignment
+# [CAPSTONE PROPER - Pt 1] - Knowledge Tree
 
 ## Introduction
 
